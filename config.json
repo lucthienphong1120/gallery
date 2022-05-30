@@ -1,352 +1,504 @@
 {
-  "Mockups": [
+  "Bitdegree": [],
+  "CodeLearn": [
     {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/curriculum.png",
-      "compressed_path": "./photos/Mockups/curriculum.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/curriculum.placeholder.png"
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-advance-cpp.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-advance-cpp.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-advance-cpp.placeholder.png"
     },
     {
-      "width": 1440,
-      "height": 2020,
-      "path": "./photos/Mockups/Desktop.png",
-      "compressed_path": "./photos/Mockups/Desktop.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Desktop.placeholder.png"
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-C-for-beginners.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-C-for-beginners.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-C-for-beginners.placeholder.png"
     },
     {
-      "width": 1000,
-      "height": 1000,
-      "path": "./photos/Mockups/Frame.png",
-      "compressed_path": "./photos/Mockups/Frame.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/Frame.placeholder.png"
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.placeholder.png"
     },
     {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/glossary.png",
-      "compressed_path": "./photos/Mockups/glossary.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/glossary.placeholder.png"
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-computer-hardware.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-computer-hardware.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-computer-hardware.placeholder.png"
     },
     {
-      "width": 1440,
-      "height": 1024,
-      "path": "./photos/Mockups/photoframe.png",
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png"
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-computer-software.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-computer-software.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-computer-software.placeholder.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.placeholder.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.placeholder.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
+      "path": "./photos/CodeLearn/CodeLearn-python-fundamentals.png",
+      "compressed_path": "./photos/CodeLearn/CodeLearn-python-fundamentals.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/CodeLearn/CodeLearn-python-fundamentals.placeholder.png"
     }
   ],
-  "Test": [
+  "CodeOrg": [
     {
-      "width": 672,
-      "height": 421,
-      "path": "./photos/Test/281408432_1032263977651472_2373743789675847174_n.jpg",
-      "compressed_path": "./photos/Test/281408432_1032263977651472_2373743789675847174_n.min.jpg",
+      "width": 1754,
+      "height": 1235,
+      "path": "./photos/CodeOrg/codeorg-ai-for-oceans.jpg",
+      "compressed_path": "./photos/CodeOrg/codeorg-ai-for-oceans.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/281408432_1032263977651472_2373743789675847174_n.placeholder.jpg"
+      "placeholder_path": "./photos/CodeOrg/codeorg-ai-for-oceans.placeholder.jpg"
     },
     {
-      "width": 660,
-      "height": 181,
-      "path": "./photos/Test/bg-crf.png",
-      "compressed_path": "./photos/Test/bg-crf.min.png",
+      "width": 1754,
+      "height": 1235,
+      "path": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.jpg",
+      "compressed_path": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/bg-crf.placeholder.png"
+      "placeholder_path": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.placeholder.jpg"
     },
     {
-      "width": 1920,
-      "height": 1080,
-      "path": "./photos/Test/CachedImage_1920_1080_POS4.jpg",
-      "compressed_path": "./photos/Test/CachedImage_1920_1080_POS4.min.jpg",
+      "width": 1754,
+      "height": 1235,
+      "path": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.jpg",
+      "compressed_path": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/CachedImage_1920_1080_POS4.placeholder.jpg"
+      "placeholder_path": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.placeholder.jpg"
     },
     {
-      "width": 2240,
-      "height": 1260,
-      "path": "./photos/Test/CRF-banner-full.png",
-      "compressed_path": "./photos/Test/CRF-banner-full.min.png",
+      "width": 1754,
+      "height": 1235,
+      "path": "./photos/CodeOrg/codeorg-the-hour-of-code.jpg",
+      "compressed_path": "./photos/CodeOrg/codeorg-the-hour-of-code.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Test/CRF-banner-full.placeholder.png"
-    },
-    {
-      "width": 2240,
-      "height": 336,
-      "path": "./photos/Test/CRF-banner-small.png",
-      "compressed_path": "./photos/Test/CRF-banner-small.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Test/CRF-banner-small.placeholder.png"
-    },
-    {
-      "width": 233,
-      "height": 233,
-      "path": "./photos/Test/crf.jpg",
-      "compressed_path": "./photos/Test/crf.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Test/crf.placeholder.jpg"
-    },
-    {
-      "width": 1280,
-      "height": 720,
-      "path": "./photos/Test/maxresdefault.jpg",
-      "compressed_path": "./photos/Test/maxresdefault.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Test/maxresdefault.placeholder.jpg"
-    },
-    {
-      "width": 721,
-      "height": 660,
-      "path": "./photos/Test/m\u1eabu cv.jpg",
-      "compressed_path": "./photos/Test/m\u1eabu cv.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Test/m\u1eabu cv.placeholder.jpg"
-    },
-    {
-      "width": 700,
-      "height": 420,
-      "path": "./photos/Test/phan-mem-may-tinh_15d2a022257.jpg",
-      "compressed_path": "./photos/Test/phan-mem-may-tinh_15d2a022257.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Test/phan-mem-may-tinh_15d2a022257.placeholder.jpg"
-    },
-    {
-      "width": 504,
-      "height": 506,
-      "path": "./photos/Test/whs.png",
-      "compressed_path": "./photos/Test/whs.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Test/whs.placeholder.png"
+      "placeholder_path": "./photos/CodeOrg/codeorg-the-hour-of-code.placeholder.jpg"
     }
   ],
-  "Travel Photography": [
+  "Coursera": [],
+  "Cybrary": [],
+  "EF SET": [],
+  "F8": [
     {
-      "width": 3112,
-      "height": 4149,
-      "path": "./photos/Travel Photography/20160406-20160505DSCF2086.jpg",
-      "compressed_path": "./photos/Travel Photography/20160406-20160505DSCF2086.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/20160406-20160505DSCF2086.placeholder.jpg"
+      "width": 2000,
+      "height": 1439,
+      "path": "./photos/F8/F8-HTML&CSS.png",
+      "compressed_path": "./photos/F8/F8-HTML&CSS.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/F8-HTML&CSS.placeholder.png"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Travel Photography/DSCF0138.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF0138.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0138.placeholder.jpg"
+      "width": 2000,
+      "height": 1439,
+      "path": "./photos/F8/F8-Information-Technology-Onboarding.png",
+      "compressed_path": "./photos/F8/F8-Information-Technology-Onboarding.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/F8-Information-Technology-Onboarding.placeholder.png"
     },
     {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Travel Photography/DSCF0219.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF0219.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0219.placeholder.jpg"
+      "width": 2000,
+      "height": 1439,
+      "path": "./photos/F8/F8-JavaScript-Basic.png",
+      "compressed_path": "./photos/F8/F8-JavaScript-Basic.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/F8-JavaScript-Basic.placeholder.png"
     },
     {
-      "width": 3266,
-      "height": 4899,
-      "path": "./photos/Travel Photography/DSCF0860.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF0860.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0860.placeholder.jpg"
+      "width": 2000,
+      "height": 1439,
+      "path": "./photos/F8/F8-Responsive-Web-Designe.png",
+      "compressed_path": "./photos/F8/F8-Responsive-Web-Designe.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/F8-Responsive-Web-Designe.placeholder.png"
     },
     {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF0989(1).jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF0989(1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF0989(1).placeholder.jpg"
+      "width": 938,
+      "height": 675,
+      "path": "./photos/F8/HTML&CSS.png",
+      "compressed_path": "./photos/F8/HTML&CSS.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/HTML&CSS.placeholder.png"
     },
     {
-      "width": 5332,
-      "height": 3000,
-      "path": "./photos/Travel Photography/DSCF1252.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF1252.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1252.placeholder.jpg"
+      "width": 937,
+      "height": 674,
+      "path": "./photos/F8/Information-Technology-Onboarding.png",
+      "compressed_path": "./photos/F8/Information-Technology-Onboarding.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/Information-Technology-Onboarding.placeholder.png"
     },
     {
-      "width": 4898,
-      "height": 3265,
-      "path": "./photos/Travel Photography/DSCF1502.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF1502.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1502.placeholder.jpg"
+      "width": 934,
+      "height": 672,
+      "path": "./photos/F8/JavaScript-Basic.png",
+      "compressed_path": "./photos/F8/JavaScript-Basic.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/JavaScript-Basic.placeholder.png"
     },
     {
-      "width": 3264,
-      "height": 4352,
-      "path": "./photos/Travel Photography/DSCF1802.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF1802.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1802.placeholder.jpg"
-    },
-    {
-      "width": 2363,
-      "height": 3151,
-      "path": "./photos/Travel Photography/DSCF1894.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF1894.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF1894.placeholder.jpg"
-    },
-    {
-      "width": 2856,
-      "height": 3808,
-      "path": "./photos/Travel Photography/DSCF2242.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF2242.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF2242.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4352,
-      "path": "./photos/Travel Photography/DSCF3621.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF3621.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF3621.placeholder.jpg"
-    },
-    {
-      "width": 3264,
-      "height": 4080,
-      "path": "./photos/Travel Photography/DSCF4244.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF4244.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4244.placeholder.jpg"
-    },
-    {
-      "width": 2611,
-      "height": 3264,
-      "path": "./photos/Travel Photography/DSCF4538.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF4538.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF4538.placeholder.jpg"
-    },
-    {
-      "width": 3170,
-      "height": 3962,
-      "path": "./photos/Travel Photography/DSCF5636.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF5636.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5636.placeholder.jpg"
-    },
-    {
-      "width": 3154,
-      "height": 3943,
-      "path": "./photos/Travel Photography/DSCF5784.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF5784.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF5784.placeholder.jpg"
-    },
-    {
-      "width": 2719,
-      "height": 3399,
-      "path": "./photos/Travel Photography/DSCF7355.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF7355.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7355.placeholder.jpg"
-    },
-    {
-      "width": 3538,
-      "height": 4422,
-      "path": "./photos/Travel Photography/DSCF7399.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF7399.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF7399.placeholder.jpg"
-    },
-    {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8053.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8053.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8053.placeholder.jpg"
-    },
-    {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8091.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8091.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8091.placeholder.jpg"
-    },
-    {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8103.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8103.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8103.placeholder.jpg"
-    },
-    {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8196.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8196.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8196.placeholder.jpg"
-    },
-    {
-      "width": 3578,
-      "height": 4472,
-      "path": "./photos/Travel Photography/DSCF8846.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8846.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8846.placeholder.jpg"
-    },
-    {
-      "width": 3250,
-      "height": 4062,
-      "path": "./photos/Travel Photography/DSCF8958.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8958.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8958.placeholder.jpg"
-    },
-    {
-      "width": 3265,
-      "height": 4898,
-      "path": "./photos/Travel Photography/DSCF8993.jpg",
-      "compressed_path": "./photos/Travel Photography/DSCF8993.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSCF8993.placeholder.jpg"
-    },
-    {
-      "width": 3311,
-      "height": 4415,
-      "path": "./photos/Travel Photography/IMG_0072.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_0072.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_0072.placeholder.jpg"
-    },
-    {
-      "width": 3797,
-      "height": 2848,
-      "path": "./photos/Travel Photography/IMG_7575.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_7575.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_7575.placeholder.jpg"
-    },
-    {
-      "width": 2541,
-      "height": 3388,
-      "path": "./photos/Travel Photography/IMG_9863.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_9863.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9863.placeholder.jpg"
-    },
-    {
-      "width": 2205,
-      "height": 2940,
-      "path": "./photos/Travel Photography/IMG_9966.jpg",
-      "compressed_path": "./photos/Travel Photography/IMG_9966.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/IMG_9966.placeholder.jpg"
+      "width": 938,
+      "height": 677,
+      "path": "./photos/F8/Responsive-Web-Design.png",
+      "compressed_path": "./photos/F8/Responsive-Web-Design.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/F8/Responsive-Web-Design.placeholder.png"
     }
-  ]
+  ],
+  "GCF Learn": [],
+  "Google Digital Academy Skillshop": [],
+  "Google Digital Garange": [],
+  "Great Learning": [
+    {
+      "width": 3368,
+      "height": 2324,
+      "path": "./photos/Great Learning/greatlearn-front-end-development-css.png",
+      "compressed_path": "./photos/Great Learning/greatlearn-front-end-development-css.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Great Learning/greatlearn-front-end-development-css.placeholder.png"
+    },
+    {
+      "width": 3368,
+      "height": 2324,
+      "path": "./photos/Great Learning/greatlearn-introdution-to-iot.jpg",
+      "compressed_path": "./photos/Great Learning/greatlearn-introdution-to-iot.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Great Learning/greatlearn-introdution-to-iot.placeholder.jpg"
+    },
+    {
+      "width": 3368,
+      "height": 2324,
+      "path": "./photos/Great Learning/greatlearn-programing-basic.jpg",
+      "compressed_path": "./photos/Great Learning/greatlearn-programing-basic.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Great Learning/greatlearn-programing-basic.placeholder.jpg"
+    },
+    {
+      "width": 3368,
+      "height": 2324,
+      "path": "./photos/Great Learning/greatlearn-vuca-leadership.jpg",
+      "compressed_path": "./photos/Great Learning/greatlearn-vuca-leadership.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Great Learning/greatlearn-vuca-leadership.placeholder.jpg"
+    }
+  ],
+  "HubSpot": [
+    {
+      "width": 3301,
+      "height": 2551,
+      "path": "./photos/HubSpot/Hubspot-frictionless-sales.png",
+      "compressed_path": "./photos/HubSpot/Hubspot-frictionless-sales.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/HubSpot/Hubspot-frictionless-sales.placeholder.png"
+    },
+    {
+      "width": 3301,
+      "height": 2551,
+      "path": "./photos/HubSpot/Hubspot-Grow-driven-design.png",
+      "compressed_path": "./photos/HubSpot/Hubspot-Grow-driven-design.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/HubSpot/Hubspot-Grow-driven-design.placeholder.png"
+    }
+  ],
+  "SamSung": [],
+  "Simplilearn": [],
+  "Udemy": [
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.jpg",
+      "compressed_path": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.jpg",
+      "compressed_path": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.jpg",
+      "compressed_path": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.jpg",
+      "compressed_path": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.jpg",
+      "compressed_path": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.jpg",
+      "compressed_path": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.jpg",
+      "compressed_path": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Microsoft-Outlook.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Microsoft-Outlook.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Microsoft-Outlook.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-NFT-for-Dummies.jpg",
+      "compressed_path": "./photos/Udemy/udemy-NFT-for-Dummies.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-NFT-for-Dummies.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.jpg",
+      "compressed_path": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.jpg",
+      "compressed_path": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.jpg",
+      "compressed_path": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "path": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.jpg",
+      "compressed_path": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.placeholder.jpg"
+    }
+  ],
+  "WHO": []
 }

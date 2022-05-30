@@ -2,15 +2,15 @@
 #        TO FILL            #
 #############################
 
-# The title that appears on the tab
+# Title of website that appears on the tab
 title: My Gallery
 
-# The title on the web page
+# Heading on the web page
 full_name: Luc Thien Phong
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: ROWS
+layout_style: SQUARES
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.

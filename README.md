@@ -1,14 +1,13 @@
 # Gallery
-A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos.
+
+An automatic photo gallery generator for your images and albums, a free portfolio solution for your photos.
 
 ![demo](./demo.gif)
-
-*Gallery is a side project of mine to allow me to create a more curated version of my photography and mockup portfolio. It's intended to have a simple setup process that is accessible by anyone.*
 
 ## How to use
 
 - Fork this repository 🍴
-- Clone the repository through terminal by running
+- Clone the repository
 ```
 git clone https://github.com/lucthienphong1120/gallery
 ```
@@ -17,7 +16,7 @@ git clone https://github.com/lucthienphong1120/gallery
 **Example**:
 ```
 /photos
-  /mockups
+  /albums1
     IMG_0123.jpg
     IMG_0124.jpg
   /portrait

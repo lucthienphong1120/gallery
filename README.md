@@ -37,27 +37,26 @@ There are two important pieces to gallery:
 `setup.command` goes through all of the folders in your `/photos/` directory. It collects all of the file paths of each photo in each album. It aggregates all of this data into one key file called `config.json`.
 
 ### Client-side Generation
-Once you've created your `config.json`, the website can now use that file to figure out which photos to show. It uses jekyll and JavaScript(ES6🔥) to layout your photos, grouping all of the photos per album.
+Once you've created your `config.json`, the website can now use that file to figure out which photos to show. It uses Jekyll template 🔥 and JavaScript ES6 to layout your photos, grouping all of the photos per album.
 
 ## Customizing your Gallery
-Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout you want to use by setting the `layout` variable in `script.js` to be either `SQUARES`, `ROWS` or `COLUMNS`.
+Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout to use in `_config.yml` file to be either `SQUARES`, `ROWS` or `COLUMNS`.
 
 Each different layout has both its own and shared set of configuration options.
 
-### Shared
 - `spacing` (Integer): The vertical and horizontal distance that separates each photo from all adjacent photos. *Defaulted to 10*.
 - `shuffle` (Boolean): Toggle to shuffle or not to shuffle the photos. *Default is `false`*.
 
-### Column Configuration
+### Column
 - `columns` (Integer): The number of columns for the layout. *Default is `3`*.
 
-### Square Configuration
+### Square
 - `columns` (Integer): The number of columns for the layout. *Default is `3`*.
 - `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
 
 Columns takes priority if both are set.
 
-### Row Configuration
+### Row
 - `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
 
 ## Fun Facts

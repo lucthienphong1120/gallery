@@ -46,9 +46,14 @@ python .\tools\setup.py
 - It uses Jekyll template 🔥 and JavaScript ES6 to layout your photos, grouping all of the photos per album.
 
 ## Customizing your Gallery
-Gallery supports 3 different kinds of layouts: rows, squares and columns. You can choose which type of layout to use in `_config.yml` file to be either `SQUARES`, `ROWS` or `COLUMNS`.
 
-Each different layout has both its own and shared set of configuration options.
+Gallery supports 3 different kinds of layouts: rows, squares and columns. You can configure it at `_config.yml` file
+
+- `SQUARES`: crop images in squares, stack them in blocks, 4 columns each row
+- `ROWS`: keep the aspect ratio of the image, arrange in a horizontal row, 2-4 photo each row
+- `COLUMNS`: keep the aspect ratio of the image, divided into 4 columns, arranged vertically down
+
+## Layout configuration
 
 - `spacing` (Integer): The vertical and horizontal distance that separates each photo from all adjacent photos. *Defaulted to 10*.
 - `shuffle` (Boolean): Toggle to shuffle or not to shuffle the photos. *Default is `false`*.

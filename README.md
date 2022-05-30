@@ -1,19 +1,19 @@
 # Gallery
-A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos. Live demo at http://andyzhang.net/gallery
+A visual portfolio generator with web hosting for your mockups and photo albums. Requires no 3rd party libraries or installations. A 🤑free🤑 Squarespace alternative for your photos.
 
-![demo](http://g.recordit.co/myz4N5iMzg.gif)
+![demo](./demo.gif)
 
-*Gallery is a side project of mine to allow me to create a more curated version of my photography and mockup portfolio. It's intended to have a simple setup process that is accessible by anyone. If you have any feedback for Gallery, [drop me a line](mailto:andzhng@gmail.com?Subject=Hey!) :)*
+*Gallery is a side project of mine to allow me to create a more curated version of my photography and mockup portfolio. It's intended to have a simple setup process that is accessible by anyone.*
 
+## How to use
 
-## Dependencies
-🔥 NONE 🔥
-
-## Making your own gallery in less than 5 minutes
-- Fork this repository🍴
+- Fork this repository 🍴
 - Clone the repository through terminal by running
-`git clone git@github.com:{YOUR_USERNAME}/gallery.git`
-- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder. 
+```
+git clone https://github.com/lucthienphong1120/gallery
+```
+- Replace contents of `/photos` with all of your albums. For each of your albums, create a folder with the same name as your album name, and then put all of your photos in the folder.
+
 **Example**:
 ```
 /photos
@@ -25,16 +25,10 @@ A visual portfolio generator with web hosting for your mockups and photo albums.
     IMG_1235.jpg
 ```
 
-- Open the folder in finder and **double click** `setup.command`. This will go through all of your albums and create a `config.json` file for you. This file allows the generator to know which photos will be hosted on your website.✨
-- Personalize the contents at the bottom of `_config.yml`.
-- Commit all of your changes and then push all of your changes to Github by running
-```
-$ git checkout -B gh-pages  # This creates a branch that will be hosted at {username}.github.io/gallery
-$ git commit -am "Create my first gallery"  # This saves all of your changes
-$ git push origin gh-pages  # This pushes your gallery to be hosted!
-```
-- Check out your site at {username}.github.io/gallery 🎉✨!
-
+- In Windows, open PowerShell and run `python .\tools\setup.py`, this will go through all of your albums and create a `config.json` file. (This file allows the generator to know which photos will be hosted on your website).✨
+- Personalize the contents of website at `_config.yml`.
+- Commit all change and host your repo with github page
+- ... and that's all your gallery
 
 ## How It Works
 There are two important pieces to gallery:
@@ -65,11 +59,6 @@ Columns takes priority if both are set.
 
 ### Row Configuration
 - `maxHeight` (Integer): The max height in px for each photo. *Default is `400`*.
-
-### Instagram
-- `instagram` (String): Your Instagram handle. If no string is passed, no footer
-  is rendered.
-
 
 ## Fun Facts
 - No Bootstrap is used. AT ALL! 🔥🔥🔥

@@ -3,10 +3,10 @@
 #############################
 
 # The title that appears on the tab
-title: Andy Zhang's Gallery
+title: My Gallery
 
 # The title on the web page
-full_name: Andy Zhang
+full_name: Luc Thien Phong
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
@@ -28,7 +28,7 @@ columns: 4
 max_height: 400
 
 # Handle
-instagram: andy.fuji
+instagram: 
 
 ######################
 # END OF CONFIG CODE #

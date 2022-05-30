@@ -10,7 +10,7 @@ full_name: Luc Thien Phong
 
 # The type of layout
 # Options: ROWS, SQUARES, COLUMNS
-layout_style: ROWS
+layout_style: COLUMNS
 
 # Variables below are default. Feel free to customize the values below, but do
 # not remove the property.

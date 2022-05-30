@@ -30,7 +30,7 @@ max_height: 400
 
 ######################
 # END OF CONFIG CODE #
-#  Ignore below :)   #
+#  Ignore below      #
 ######################
 #
 # Name of your gallery (this will show up at the top of your page and in the RSS feed)
@@ -40,10 +40,7 @@ name: Gallery
 description: Photography Portfolio
 
 # Your name, as you want it to appear underneath each post and in the footer
-author: Andy Zhang
-
-# Your email if you want it to be linked on the contact page
-author_email: andzhng@gmail.com
+author: lucthienphong1120
 
 # The directory for category index pages. Change it to something else if
 # for example you want links like /categories/category1 instead of /category1
@@ -54,6 +51,3 @@ category_dir: /
 # Example, you must use http://localhost:4000/path/to/blog
 #baseurl: /path/to/blog
 baseurl: /
-
-# The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-# url: http://andyzhang.net/gallery

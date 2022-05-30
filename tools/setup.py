@@ -94,10 +94,7 @@ def run():
     print('Done processing all {length} albums'.format(length=len(dirs)))
     print('Writing files to {path} now...'.format(path=PATH + 'config.json'))
     write_config(config)
-    print('''Done writing! You may now safely close this window :)
-
-Thank you for using gallery! Share your gallery on Github!
-https://github.com/andyzg/gallery/issues/1''')
+    print("Done writing! You may now safely close this window")
     return 0
 
 

@@ -45,6 +45,8 @@ python .\tools\setup.py
 - Once you've created your `config.json`, the website can use it to figure out which photos to show.
 - It uses Jekyll template 🔥 and JavaScript ES6 to layout your photos, grouping all of the photos per album.
 
+*Note*: It currently supports 3 formats: png, jpeg and jpg
+
 ## Customizing your Gallery
 
 Gallery supports 3 different kinds of layouts: rows, squares and columns. You can configure it at `_config.yml` file

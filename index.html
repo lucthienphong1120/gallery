@@ -1,49 +1,46 @@
----
----
-<!DOCTYPE HTML>
-<html>
-  <head>
-    <title>{{ site.title }}</title>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gallery</title>
     <link rel="icon" type="image/png" href="crf.jpg">
-    <link rel="stylesheet" type="text/css" href="css/reset.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-    <link rel="stylesheet" type="text/css" href="css/zoom.css">
-    <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
-    <script src="https://use.fontawesome.com/4c9066f1a6.js"></script>
-  </head>
-  <body>
-    <div id="container">
-      <!--------------- YOUR NAME OVER HERE -------------->
-      <h2 class="header">{{ site.full_name }}</h2>
-      <div id="gallery">
-      </div>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+</head>
+
+<body>
+    <div id="app">
+        <h2 class="title">{{infos.title}}</h2>
+        <p class="description">{{infos.description}}</p>
+        <div id="gallery">
+            <section v-for="(items, title) in albums" v-bind:name="title">
+                <h3 class="album-name"> {{title}} </h3>
+                <div class="album-content">
+                    <div class="album-photo" v-for="item in items">
+                        <img class="photo" v-bind:src="item.src">
+                    </div>
+                </div>
+            </section>
+        </div>
     </div>
-  </body>
-  <script
-    src="https://code.jquery.com/jquery-3.2.1.js"
-    integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
-    crossorigin="anonymous"></script>
-  <script src="https://cdn.jsdelivr.net/npm/lazyload@2.0.0-beta.2/lazyload.js"></script>
-  <script src="js/transition.js"></script>
-  <script src="js/zoom.min.js"></script>
-  <script src="js/gallery.js"></script>
-  <script>
-    var COLUMNS = 'columns';
-    var ROWS = 'rows';
-    var SQUARES = 'squares';
+</body>
+<script type="module">
+    import json from './config.json' assert { type: 'json' };
+    import info from './info.json' assert { type: 'json' };
+    console.log(info)
+    const app = new Vue({
+        el: '#app',
+        data: {
+            albums: json,
+            infos: info
+        },
+        mounted() {
+            document.title = info.name;
+        },
+    });
+</script>
 
-    var columns = COLUMNS;
-    var rows = ROWS;
-    var squares = SQUARES;
-
-    var layoutStyle = {{ site.layout_style }};
-
-    var configuration = {
-      spacing: {{ site.spacing }},
-      shuffle: {{ site.shuffle }},
-      columns: {{ site.columns }},
-      maxHeight: {{ site.max_height }}
-    };
-  </script>
-  <script src="js/script.js"></script>
 </html>

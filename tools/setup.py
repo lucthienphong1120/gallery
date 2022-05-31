@@ -9,22 +9,11 @@ import os
 import sys
 import json
 import re
+import time
 
 PATH = os.path.dirname(__file__) + '/../'
 RELATIVE_PATH = 'photos'
 PHOTO_PATH = PATH + RELATIVE_PATH
-
-
-def is_original(path):
-    return '.min.' not in path and '.placeholder.' not in path and is_image_path(path)
-
-
-def is_not_min_path(path):
-    return not is_min_path(path) and is_image_path(path)
-
-
-def is_min_path(path):
-    return '.min.' in path and is_image_path(path)
 
 
 def get_directories():
@@ -32,16 +21,8 @@ def get_directories():
     return list(filter(lambda x: os.path.isdir(PHOTO_PATH + '/' + x), items))
 
 
-def is_image_path(path):
+def is_image(path):
     return re.search(r'\.(jpe?g|png)$', path)
-
-
-def get_placeholder_path(path):
-    return get_path(path, 'placeholder')
-
-
-def get_min_path(path):
-    return get_path(path, 'min')
 
 
 def get_path(path, ext):
@@ -50,24 +31,18 @@ def get_path(path, ext):
 
 def get_images(path):
     items = os.listdir(PHOTO_PATH + '/' + path)
-    filtered_items = list(filter(is_original, items))
-
+    imgs = list(filter(is_image, items))
     result = []
-    for img in filtered_items:
+    for img in imgs:
         width, height = 0, 0
-        has_compressed = False
-        p = './' + RELATIVE_PATH + '/' + path + '/' + img
+        src = './' + RELATIVE_PATH + '/' + path + '/' + img
+        # print(p)
         with open(PHOTO_PATH + '/' + path + '/' + img, 'rb') as f:
             _, width, height = getImageInfo(f.read())
-        if os.path.isfile(get_min_path(p)):
-            has_compressed = True
         result.append({
             'width': width,
             'height': height,
-            'path': './' + RELATIVE_PATH + '/' + path + '/' + img,
-            'compressed_path': get_min_path(p),
-            'compressed': has_compressed,
-            'placeholder_path': get_placeholder_path(p)
+            'src': src,
         })
     return result
 
@@ -78,23 +53,23 @@ def write_config(config):
 
 
 def run():
-    print('Starting to collect all albums within the /photos directory...')
+    print('Start reading data of each photo in ' + RELATIVE_PATH + ' directory\n')
+    time.sleep(2)
     config = {}
     dirs = get_directories()
-    print('Found {length} directories'.format(length=len(dirs)))
+    print('Collecting {length} albums...\n'.format(length=len(dirs)))
+    time.sleep(3)
+    print()
     for i, path in enumerate(dirs):
-        print(str(i+1) + ': Processing photos for the album "{album}"'.format(
-            album=path))
+        print(str(i+1) + ': Processing album "{album}"'.format(album=path))
         config[path] = get_images(path)
 
-        print('   Done processing {l} photos for "{album}"\n'.format(
-            l=len(config[path]),
-            album=path))
+        print('Finished {length} photos"\n'.format(length=len(config[path])))
 
-    print('Done processing all {length} albums'.format(length=len(dirs)))
-    print('Writing files to {path} now...'.format(path=PATH + 'config.json'))
     write_config(config)
-    print("Done writing! You may now safely close this window")
+    print('Finished configuring total {length} albums!\n'.format(length=len(dirs)))
+    print('Config file has been saved on {path}'.format(path=PATH + 'config.json'))
+    print('Thank you for using, leave a Star if you feel useful!')
     return 0
 
 

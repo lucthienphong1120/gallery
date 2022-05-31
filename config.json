@@ -4,100 +4,64 @@
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-advance-cpp.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-advance-cpp.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-advance-cpp.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-advance-cpp.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-C-for-beginners.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-C-for-beginners.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-C-for-beginners.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-C-for-beginners.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-Computer-Communication-Network.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-computer-hardware.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-computer-hardware.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-computer-hardware.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-computer-hardware.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-computer-software.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-computer-software.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-computer-software.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-computer-software.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-Cpp-for-beginners.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-data-structure-and-algorithms.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "path": "./photos/CodeLearn/CodeLearn-python-fundamentals.png",
-      "compressed_path": "./photos/CodeLearn/CodeLearn-python-fundamentals.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeLearn/CodeLearn-python-fundamentals.placeholder.png"
+      "src": "./photos/CodeLearn/CodeLearn-python-fundamentals.png"
     }
   ],
   "CodeOrg": [
     {
       "width": 1754,
       "height": 1235,
-      "path": "./photos/CodeOrg/codeorg-ai-for-oceans.jpg",
-      "compressed_path": "./photos/CodeOrg/codeorg-ai-for-oceans.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeOrg/codeorg-ai-for-oceans.placeholder.jpg"
+      "src": "./photos/CodeOrg/codeorg-ai-for-oceans.jpg"
     },
     {
       "width": 1754,
       "height": 1235,
-      "path": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.jpg",
-      "compressed_path": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.placeholder.jpg"
+      "src": "./photos/CodeOrg/codeorg-Minecraft-Hero-Journey.jpg"
     },
     {
       "width": 1754,
       "height": 1235,
-      "path": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.jpg",
-      "compressed_path": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.placeholder.jpg"
+      "src": "./photos/CodeOrg/codeorg-minecraft-hour-of-code.jpg"
     },
     {
       "width": 1754,
       "height": 1235,
-      "path": "./photos/CodeOrg/codeorg-the-hour-of-code.jpg",
-      "compressed_path": "./photos/CodeOrg/codeorg-the-hour-of-code.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/CodeOrg/codeorg-the-hour-of-code.placeholder.jpg"
+      "src": "./photos/CodeOrg/codeorg-the-hour-of-code.jpg"
     }
   ],
   "Coursera": [],
@@ -107,66 +71,42 @@
     {
       "width": 2000,
       "height": 1439,
-      "path": "./photos/F8/F8-HTML&CSS.png",
-      "compressed_path": "./photos/F8/F8-HTML&CSS.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/F8-HTML&CSS.placeholder.png"
+      "src": "./photos/F8/F8-HTML&CSS.png"
     },
     {
       "width": 2000,
       "height": 1439,
-      "path": "./photos/F8/F8-Information-Technology-Onboarding.png",
-      "compressed_path": "./photos/F8/F8-Information-Technology-Onboarding.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/F8-Information-Technology-Onboarding.placeholder.png"
+      "src": "./photos/F8/F8-Information-Technology-Onboarding.png"
     },
     {
       "width": 2000,
       "height": 1439,
-      "path": "./photos/F8/F8-JavaScript-Basic.png",
-      "compressed_path": "./photos/F8/F8-JavaScript-Basic.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/F8-JavaScript-Basic.placeholder.png"
+      "src": "./photos/F8/F8-JavaScript-Basic.png"
     },
     {
       "width": 2000,
       "height": 1439,
-      "path": "./photos/F8/F8-Responsive-Web-Designe.png",
-      "compressed_path": "./photos/F8/F8-Responsive-Web-Designe.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/F8-Responsive-Web-Designe.placeholder.png"
+      "src": "./photos/F8/F8-Responsive-Web-Designe.png"
     },
     {
       "width": 938,
       "height": 675,
-      "path": "./photos/F8/HTML&CSS.png",
-      "compressed_path": "./photos/F8/HTML&CSS.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/HTML&CSS.placeholder.png"
+      "src": "./photos/F8/HTML&CSS.png"
     },
     {
       "width": 937,
       "height": 674,
-      "path": "./photos/F8/Information-Technology-Onboarding.png",
-      "compressed_path": "./photos/F8/Information-Technology-Onboarding.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/Information-Technology-Onboarding.placeholder.png"
+      "src": "./photos/F8/Information-Technology-Onboarding.png"
     },
     {
       "width": 934,
       "height": 672,
-      "path": "./photos/F8/JavaScript-Basic.png",
-      "compressed_path": "./photos/F8/JavaScript-Basic.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/JavaScript-Basic.placeholder.png"
+      "src": "./photos/F8/JavaScript-Basic.png"
     },
     {
       "width": 938,
       "height": 677,
-      "path": "./photos/F8/Responsive-Web-Design.png",
-      "compressed_path": "./photos/F8/Responsive-Web-Design.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/F8/Responsive-Web-Design.placeholder.png"
+      "src": "./photos/F8/Responsive-Web-Design.png"
     }
   ],
   "GCF Learn": [],
@@ -176,52 +116,34 @@
     {
       "width": 3368,
       "height": 2324,
-      "path": "./photos/Great Learning/greatlearn-front-end-development-css.png",
-      "compressed_path": "./photos/Great Learning/greatlearn-front-end-development-css.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/Great Learning/greatlearn-front-end-development-css.placeholder.png"
+      "src": "./photos/Great Learning/greatlearn-front-end-development-css.png"
     },
     {
       "width": 3368,
       "height": 2324,
-      "path": "./photos/Great Learning/greatlearn-introdution-to-iot.jpg",
-      "compressed_path": "./photos/Great Learning/greatlearn-introdution-to-iot.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Great Learning/greatlearn-introdution-to-iot.placeholder.jpg"
+      "src": "./photos/Great Learning/greatlearn-introdution-to-iot.jpg"
     },
     {
       "width": 3368,
       "height": 2324,
-      "path": "./photos/Great Learning/greatlearn-programing-basic.jpg",
-      "compressed_path": "./photos/Great Learning/greatlearn-programing-basic.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Great Learning/greatlearn-programing-basic.placeholder.jpg"
+      "src": "./photos/Great Learning/greatlearn-programing-basic.jpg"
     },
     {
       "width": 3368,
       "height": 2324,
-      "path": "./photos/Great Learning/greatlearn-vuca-leadership.jpg",
-      "compressed_path": "./photos/Great Learning/greatlearn-vuca-leadership.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Great Learning/greatlearn-vuca-leadership.placeholder.jpg"
+      "src": "./photos/Great Learning/greatlearn-vuca-leadership.jpg"
     }
   ],
   "HubSpot": [
     {
       "width": 3301,
       "height": 2551,
-      "path": "./photos/HubSpot/Hubspot-frictionless-sales.png",
-      "compressed_path": "./photos/HubSpot/Hubspot-frictionless-sales.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/HubSpot/Hubspot-frictionless-sales.placeholder.png"
+      "src": "./photos/HubSpot/Hubspot-frictionless-sales.png"
     },
     {
       "width": 3301,
       "height": 2551,
-      "path": "./photos/HubSpot/Hubspot-Grow-driven-design.png",
-      "compressed_path": "./photos/HubSpot/Hubspot-Grow-driven-design.min.png",
-      "compressed": false,
-      "placeholder_path": "./photos/HubSpot/Hubspot-Grow-driven-design.placeholder.png"
+      "src": "./photos/HubSpot/Hubspot-Grow-driven-design.png"
     }
   ],
   "SamSung": [],
@@ -230,274 +152,172 @@
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.jpg",
-      "compressed_path": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.placeholder.jpg"
+      "src": "./photos/Udemy/Udemy-2-corinthians-13-life-changing-lessons.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.jpg",
-      "compressed_path": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-A-complete-manual-for-the-faceless-YouTube-channel.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Bible-Philippians-7-Lessons-We-Can-Learn-For-Today.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Build-your-business-with-online-marketing-without-prior-knowledge.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Career-Coaching-Summary-TOP-5-Secret-of-Effcient-Sessions.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Citizen-Training-and-Children-Rights.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Color-Correction-in-Adobe-Premiere-Pro.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Complete-Guide-to-Pinterest-Growth-2021.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.jpg",
-      "compressed_path": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.placeholder.jpg"
+      "src": "./photos/Udemy/Udemy-Complete-Payroll-Management-in-Excel.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Copywriting-3-Crucial-Points-For-Your-textt-To-Sell-Itself.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Create-a-business-PowerPoint-presentation-from-scratch.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.jpg",
-      "compressed_path": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-First-Steps-Into-Selling-Smarter.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Free-WordPress-Deployment-Online-2021.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.jpg",
-      "compressed_path": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-How-to-Become-a-Facilitator-7-Effective-Skills-Summary.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.jpg",
-      "compressed_path": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-How-to-Become-a-Paid-Influencer.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.jpg",
-      "compressed_path": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-HVAC-Ductwork-Quantity-Take-off-for-Quantity-Surveyors.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Learn-6-SIMPLE-Steps-to-Make-Money-on-TikTok-App.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Learn-how-to-use-Zapier-to-automate-your-Business.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Make-Money-Online-Mindset-Training-Real-Life-Examples.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Master-the-English-Irregular-Verbs-Once-and-For-All.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Microsoft-Excel-Basic-Excel-Advanced-Excel-Formulas.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Microsoft-Outlook.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Microsoft-Outlook.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Microsoft-Outlook.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Microsoft-Outlook.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Most-Essentia-Popular-Excel-Formulas-And-Functions.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-NFT-for-Dummies.jpg",
-      "compressed_path": "./photos/Udemy/udemy-NFT-for-Dummies.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-NFT-for-Dummies.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-NFT-for-Dummies.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Passive-Income-27-Ways-to-Earn-Passive-Income-Online.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Project-Finance-Fundamentals-Infrastructure-Energy.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Proven-Travel-Hacks-for-Southeast-Asia.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.jpg",
-      "compressed_path": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.jpg",
-      "compressed_path": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-The-Complete-Facebook-Traffic-Ads-Facebook-CPC-Course-2022.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Tubebuddy-Masterclass-Guide-to-YouTube-Keyword-Tool.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Utreon-Masterclass-Ultimate-Guide-to-YouTube-Alternative.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.jpg",
-      "compressed_path": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-Your-own-podcast-live-in-24 hours.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
-      "path": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.jpg",
-      "compressed_path": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.min.jpg",
-      "compressed": false,
-      "placeholder_path": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.placeholder.jpg"
+      "src": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.jpg"
     }
   ],
   "WHO": []

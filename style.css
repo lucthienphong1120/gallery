@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#app {
+    margin: 0 auto;
+    max-width: 1000px;
+}
+
+.title {
+    margin: 80px 0 10px;
+    font-weight: 900;
+    font-size: 35px;
+    color: #000;
+}
+
+.description {
+    margin-bottom: 35px;
+    font-size: 17px;
+    font-style: italic;
+    color: #333;
+}
+
+section {
+    margin-bottom: 120px;
+}
+
+.album-name {
+    margin-bottom: 30px;
+    color: #666;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+
+.album-content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.photo {
+    border: 1px solid rgba(0, 0, 0, .05);
+    width: 242.5px;
+    height: 173.145px;
+    margin-bottom: 10px;
+    object-fit: cover;
+}

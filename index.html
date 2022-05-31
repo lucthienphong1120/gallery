@@ -9,6 +9,8 @@
     <link rel="icon" type="image/png" href="crf.jpg">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <link rel="stylesheet" href=".index.css" />
+    <script src="./img-previewer.min.js"></script>
 </head>
 
 <body>
@@ -41,6 +43,10 @@
             document.title = info.name;
         },
     });
+</script>
+<script>
+    const myViewer = new ImgPreviewer('#gallery');
+    myViewer.update()
 </script>
 
 </html>

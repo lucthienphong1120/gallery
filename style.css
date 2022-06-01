@@ -7,6 +7,12 @@
 #app {
     margin: 0 auto;
     max-width: 1000px;
+    -webkit-column-count: 4;
+    -moz-column-count: 4;
+    column-count: 4;
+    -webkit-column-gap: 10px;
+    -moz-column-gap: 10px;
+    column-gap: 10px;
 }
 
 .title {

@@ -9,8 +9,7 @@
     <link rel="icon" type="image/png" href="crf.jpg">
     <link rel="stylesheet" href="style.css">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <link rel="stylesheet" href=".index.css" />
-    <script src="./img-previewer.min.js"></script>
+    <link rel="stylesheet" href="./index.css">
 </head>
 
 <body>
@@ -32,7 +31,6 @@
 <script type="module">
     import json from './config.json' assert { type: 'json' };
     import info from './info.json' assert { type: 'json' };
-    console.log(info)
     const app = new Vue({
         el: '#app',
         data: {
@@ -44,9 +42,14 @@
         },
     });
 </script>
+<script src="./img-previewer.min.js"></script>
 <script>
-    const myViewer = new ImgPreviewer('#gallery');
-    myViewer.update()
+    const imgpreviewer = new ImgPreviewer('#gallery', {
+        scrollbar: true
+    })
+    img.onload = function () {
+        imgpreviewer.update()
+    }
 </script>
 
 </html>

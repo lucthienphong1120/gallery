@@ -212,7 +212,13 @@
       "src": "./photos/Google Digital Academy Skillshop/Google-Ads-Display.png"
     }
   ],
-  "Google Digital Garange": [],
+  "Google Digital Garange": [
+    {
+      "width": 3508,
+      "height": 2481,
+      "src": "./photos/Google Digital Garange/GoogleDigitalGarage-fudamentals-of-digital-marketing.png"
+    }
+  ],
   "Great Learning": [
     {
       "width": 3368,

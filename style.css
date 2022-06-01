@@ -7,12 +7,6 @@
 #app {
     margin: 0 auto;
     max-width: 1000px;
-    -webkit-column-count: 4;
-    -moz-column-count: 4;
-    column-count: 4;
-    -webkit-column-gap: 10px;
-    -moz-column-gap: 10px;
-    column-gap: 10px;
 }
 
 .title {
@@ -27,6 +21,9 @@
     font-size: 17px;
     font-style: italic;
     color: #333;
+}
+
+#gallery {
 }
 
 section {
@@ -49,9 +46,10 @@ section {
 }
 
 .photo {
-    border: 1px solid rgba(0, 0, 0, .05);
+    border: 1px solid rgba(0, 0, 0, .1);
     width: 242.5px;
     height: 173.145px;
     margin-bottom: 10px;
     object-fit: cover;
+    object-position: top;
 }

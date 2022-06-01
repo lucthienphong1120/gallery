@@ -198,7 +198,13 @@
       "src": "./photos/F8/Responsive-Web-Design.png"
     }
   ],
-  "GCF Learn": [],
+  "GCF Learn": [
+    {
+      "width": 2552,
+      "height": 1973,
+      "src": "./photos/GCF Learn/GCFLearn-Internet-Safety.png"
+    }
+  ],
   "Google Digital Academy Skillshop": [
     {
       "width": 2554,

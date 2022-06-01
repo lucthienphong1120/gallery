@@ -23,8 +23,7 @@
     color: #333;
 }
 
-#gallery {
-}
+#gallery {}
 
 section {
     margin-bottom: 100px;
@@ -56,3 +55,28 @@ section {
     object-fit: cover;
     object-position: top;
 }
+
+/* #preview {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: none;
+}
+
+#preview img {
+    display: block;
+    -webkit-user-select: none;
+    margin: auto;
+    cursor: zoom-in;
+    background-color: hsl(0, 0%, 90%);
+    transition: background-color 300ms;
+    height: 100vh;
+    width: unset;
+}
+
+#preview .zoom {
+    width: 100vw;
+    height: unset;
+} */

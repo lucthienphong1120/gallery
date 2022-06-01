@@ -7,9 +7,9 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Gallery</title>
     <link rel="icon" type="image/png" href="./crf.jpg">
-    <link rel="stylesheet" href="./style.css">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <link rel="stylesheet" href="./index.css">
+    <script type="text/javascript" src="./vue-gallery-slideshow.js"></script>
+    <link rel="stylesheet" href="./style.css">
 </head>
 
 <body>
@@ -28,11 +28,21 @@
         </div>
     </div>
 </body>
+</script>
 <script type="module">
+    import VueGallerySlideshow from './vue-gallery-slideshow.js';
+    export default {
+  components: {
+    VueGallerySlideshow
+  }
+}
     import json from './config.json' assert { type: 'json' };
     import info from './info.json' assert { type: 'json' };
     const app = new Vue({
         el: '#app',
+        components: {
+          VueGallerySlideshow
+        },
         data: {
             albums: json,
             infos: info
@@ -41,15 +51,6 @@
             document.title = info.name;
         },
     });
-</script>
-<script src="./img-previewer.min.js"></script>
-<script>
-    const imgpreviewer = new ImgPreviewer('body', {
-        scrollbar: true
-    })
-    img.onload = function () {
-        imgpreviewer.update()
-    }
 </script>
 
 </html>

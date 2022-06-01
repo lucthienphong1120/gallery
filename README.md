@@ -16,19 +16,20 @@ git clone https://github.com/lucthienphong1120/gallery
 
 **Example**:
 ```
-/photos
-  /albums1
-    IMG1_01.jpg
-    IMG1_02.png
-    ...
-  /albums2
-    IMG2_01.jpg
-    IMG2_02.jpg
-    ...
-  /albums3
-    IMG3_01.png
-    IMG3_02.jpg
-    ...
+├───photos
+│   ├───albums1
+│   │   ├───IMG1_01.jpg
+│   │   ├───IMG1_02.png
+│   │   │   └───...
+│   ├───albums2
+│   │   ├───IMG2_01.jpg
+│   │   ├───IMG2_02.jpg
+│   │   │   └───...
+│   ├───albums3
+│   │   ├───IMG3_01.png
+│   │   ├───IMG3_02.jpg
+│   │   │   └───...
+│   ├───...
 ```
 - In Windows, open `PowerShell` and run
 ```

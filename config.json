@@ -1,5 +1,11 @@
 {
-  "Bitdegree": [],
+  "Bitdegree": [
+    {
+      "width": 2339,
+      "height": 1653,
+      "src": "./photos/Bitdegree/bitdegree-Introducing-Coding-for-Beginners-an-HTML-and-CSS-Online-Course-1.jpg"
+    }
+  ],
   "CodeLearn": [
     {
       "width": 2000,
@@ -40,6 +46,11 @@
       "width": 2000,
       "height": 1428,
       "src": "./photos/CodeLearn/CodeLearn-python-fundamentals.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
+      "src": "./photos/CodeLearn/CodeLearn_certification.png"
     }
   ],
   "CodeOrg": [
@@ -64,9 +75,87 @@
       "src": "./photos/CodeOrg/codeorg-the-hour-of-code.jpg"
     }
   ],
-  "Coursera": [],
-  "Cybrary": [],
-  "EF SET": [],
+  "Coursera": [
+    {
+      "width": 1584,
+      "height": 1224,
+      "src": "./photos/Coursera/coursera-Cybersecurity-Breach-Case-Studies.png"
+    }
+  ],
+  "Cybrary": [
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-advanced-evimetry-forensic-acquisition-allocated-non-linear-partial-and-live-images.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-basic-evimetry-deadboot-forensic-acquisition-wired-and-local.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-check-point-jump-start-maestro.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-cybrary-orientation.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-developing-teams-to-meet-modern-security-challenges.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-enhancing-your-teams-certification-preparation-process.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-evimetry-interview-with-dr-bradley-schatz.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-handling-bitlocker-and-filevault-2-evimetry-and-mount-image-pro.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-identifying-web-attacks-through-logs.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-introduction-to-it-and-cybersecurity.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-optimize-onboarding-driving-new-hire-success.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-the-evimetry-filesystem-bridge-making-your-aff4-forensic-images-available.png"
+    },
+    {
+      "width": 1683,
+      "height": 1190,
+      "src": "./photos/Cybrary/cybrary-welcome-to-cybrary.png"
+    }
+  ],
+  "EF SET": [
+    {
+      "width": 1190,
+      "height": 1683,
+      "src": "./photos/EF SET/EF SET Certificate.png"
+    }
+  ],
   "F8": [
     {
       "width": 2000,
@@ -110,7 +199,13 @@
     }
   ],
   "GCF Learn": [],
-  "Google Digital Academy Skillshop": [],
+  "Google Digital Academy Skillshop": [
+    {
+      "width": 2554,
+      "height": 3602,
+      "src": "./photos/Google Digital Academy Skillshop/Google-Ads-Display.png"
+    }
+  ],
   "Google Digital Garange": [],
   "Great Learning": [
     {
@@ -146,8 +241,25 @@
       "src": "./photos/HubSpot/Hubspot-Grow-driven-design.png"
     }
   ],
-  "SamSung": [],
-  "Simplilearn": [],
+  "SamSung": [
+    {
+      "width": 1654,
+      "height": 2339,
+      "src": "./photos/SamSung/SamSung-designing-future-where-learning-is-lifestyle_1.png"
+    },
+    {
+      "width": 1654,
+      "height": 2339,
+      "src": "./photos/SamSung/SamSung-designing-future-where-learning-is-lifestyle_2.png"
+    }
+  ],
+  "Simplilearn": [
+    {
+      "width": 3521,
+      "height": 2488,
+      "src": "./photos/Simplilearn/simlilearn-Data-Science-with-R-Programming.png"
+    }
+  ],
   "Udemy": [
     {
       "width": 1600,
@@ -320,5 +432,31 @@
       "src": "./photos/Udemy/udemy-YouTube-optimizatio-more-clicks-shares-and-subscribers.jpg"
     }
   ],
-  "WHO": []
+  "WHO": [
+    {
+      "width": 1798,
+      "height": 1304,
+      "src": "./photos/WHO/WHO-Health-Emergency-and-Disaster-Risk-Management-for-Resilient-Cities.png"
+    },
+    {
+      "width": 1798,
+      "height": 1304,
+      "src": "./photos/WHO/WHO-Infection-Prevention-and-Control-in-Maternal-and-Neonatal-Care.png"
+    },
+    {
+      "width": 1798,
+      "height": 1304,
+      "src": "./photos/WHO/WHO-Infection-Prevention-and-Control-IPC-for-COVID-19-Virus.png"
+    },
+    {
+      "width": 1798,
+      "height": 1303,
+      "src": "./photos/WHO/WHO-Introduction-to-Marburg-Virus-Disease.png"
+    },
+    {
+      "width": 1798,
+      "height": 1303,
+      "src": "./photos/WHO/WHO-SocialNet-Social-and-behavioural-insights-COVID-19-data-collection-tool-for-Africa.png"
+    }
+  ]
 }

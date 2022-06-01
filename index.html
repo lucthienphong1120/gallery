@@ -8,7 +8,6 @@
     <title>Gallery</title>
     <link rel="icon" type="image/png" href="./crf.jpg">
     <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <script type="text/javascript" src="./vue-gallery-slideshow.js"></script>
     <link rel="stylesheet" href="./style.css">
 </head>
 
@@ -21,7 +20,9 @@
                 <h3 class="album-name">{{title}}</h3>
                 <div class="album-content">
                     <div class="album-photo" v-for="item in items">
-                        <img class="photo" v-bind:src="item.src">
+                        <a v-bind:href="item.src">
+                            <img class="photo" v-bind:src="item.src">
+                        </a>
                     </div>
                 </div>
             </section>
@@ -34,9 +35,6 @@
     import info from './info.json' assert { type: 'json' };
     const app = new Vue({
         el: '#app',
-        components: {
-          VueGallerySlideshow
-        },
         data: {
             albums: json,
             infos: info

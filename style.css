@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+body {
+    margin: 0 20px;
+}
+
 #app {
     margin: 0 auto;
     max-width: 1000px;
@@ -17,7 +21,7 @@
 }
 
 .description {
-    margin-bottom: 35px;
+    margin-bottom: 40px;
     font-size: 17px;
     font-style: italic;
     color: #333;
@@ -26,11 +30,11 @@
 #gallery {}
 
 section {
-    margin-bottom: 100px;
+    margin-bottom: 50px;
 }
 
 .album-name {
-    margin-bottom: 30px;
+    margin-bottom: 20px;
     color: #666;
     font-size: 20px;
     text-transform: uppercase;

@@ -4,6 +4,7 @@ try:
     from StringIO import StringIO as sbIO
 except ImportError:
     from io import BytesIO as sbIO
+from operator import le
 import struct
 import os
 import sys
@@ -56,17 +57,21 @@ def run():
     time.sleep(2)
     config = {}
     dirs = get_directories()
-    print('Collecting {length} albums...\n'.format(length=len(dirs)))
+    print('Collecting {length} albums...'.format(length=len(dirs)))
+    print('\n---------------------------------------------------------\n')
     time.sleep(3)
     print()
+    count = 0
     for i, path in enumerate(dirs):
         print(str(i+1) + ': Processing album "{album}"'.format(album=path))
         config[path] = get_images(path)
-
-        print('Finished {length} photos"\n'.format(length=len(config[path])))
-
-    write_config(config)
-    print('Finished configuring total {length} albums!\n'.format(length=len(dirs)))
+        count += len(config[path])
+        print('Found {length} photos\n'.format(length=len(config[path])))
+    print('\n---------------------------------------------------------\n')
+    print('Finished configuring total {lengthal} albums and {lengthpt} photos!\n'.format(
+        lengthal=len(dirs),
+        lengthpt=count
+        ))
     print('Config file has been saved on {path}'.format(path=PATH + 'config.json'))
     print('Thank you for using, leave a Star if you feel useful!')
     return 0

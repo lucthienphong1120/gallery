@@ -72,8 +72,8 @@ def run():
         lengthal=len(dirs),
         lengthpt=count
         ))
-    print('Config file has been saved on {path}'.format(path=PATH + 'config.json'))
-    print('Thank you for using, leave a Star if you feel useful!')
+    print('Config file has been saved on {path}\n'.format(path=PATH + 'config.json'))
+    print('Thank you for using, leave a Star if you feel useful!\n')
     return 0
 
 

@@ -31,11 +31,11 @@ git clone https://github.com/lucthienphong1120/gallery
 │   │   └─── ...
 │   └─── ...
 ```
-- In Windows, open `PowerShell` and run
+- In Windows, open your terminal and run
 ```
-python .\tools\setup.py
+python setup.py
 ```
-- Personalize the contents of website at `_config.yml`.
+- Personalize the contents of website at `info.json`.
 - Commit all change and host your repo with github page
 - ... and that's all your gallery
 

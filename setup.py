@@ -12,10 +12,9 @@ import json
 import re
 import time
 
-PATH = os.path.dirname(__file__) + '/../'
+PATH = os.path.dirname(__file__) + '\\'
 RELATIVE_PATH = 'photos'
 PHOTO_PATH = PATH + RELATIVE_PATH
-
 
 def get_directories():
     items = os.listdir(PHOTO_PATH)

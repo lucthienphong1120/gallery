@@ -2,7 +2,7 @@
 
 An flexible gallery generator for your images and albums, a free portfolio solution for your photos.
 
-![demo](./demo.gif)
+This library also includes [img previewer](https://github.com/lucthienphong1120/img-previewer) feature
 
 ## How to use
 
@@ -41,7 +41,7 @@ python setup.py
 
 ## How It Works
 
+- I use I use VueJS framework to render items and use Python to aggregate data 🔥
 - `setup.py` will go through all of folders in `/photos/` directory and create a `config.json` file.
 - It will collects all of information of each photo in your albums. It aggregates all data into one file called `config.json`.
 - Once you've created your `config.json`, the website can use it to figure out which photos to show.
-- It uses Jekyll template 🔥 and JavaScript ES6 to layout your photos, grouping all of the photos per album.

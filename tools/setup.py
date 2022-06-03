@@ -73,7 +73,7 @@ def run():
         lengthpt=count
         ))
     print('Config file has been saved on {path}\n'.format(path=PATH + 'config.json'))
-    print('Thank you for using, leave a Star if you feel useful!\n')
+    print('Thank you for using, please leave a Star if you like it!\n')
     return 0
 
 

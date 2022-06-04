@@ -45,10 +45,10 @@ def get_images(path):
         })
     return result
 
-
 def write_config(config):
-    with open(PATH + 'config.json', 'w') as f:
-        f.write(json.dumps(config, indent=2, separators=(',', ': ')))
+    f = open('config.json', 'w')
+    f.write(json.dumps(config, indent=2, separators=(',', ': ')))
+    f.close()
 
 
 def run():
@@ -67,10 +67,13 @@ def run():
         count += len(config[path])
         print('Found {length} photos\n'.format(length=len(config[path])))
     print('\n---------------------------------------------------------\n')
-    print('Finished configuring total {lengthal} albums and {lengthpt} photos!\n'.format(
-        lengthal=len(dirs),
-        lengthpt=count
+
+    write_config(config)
+    print('Finished configuring total {albums} albums and {photos} photos!\n'.format(
+        albums=len(config),
+        photos=count
         ))
+
     print('Config file has been saved on {path}\n'.format(path=PATH + 'config.json'))
     print('Thank you for using, please leave a Star if you like it!\n')
     return 0

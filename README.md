@@ -14,7 +14,7 @@ git clone https://github.com/lucthienphong1120/gallery
 - Put your photos in folder `/photos` with all of your albums.
 - For each of your albums, create a folder with name as your album name, and then put all of your photos in.
 
-**Example**:
+**Example**: You can use `tree photos /F` to see all of your file in `photos` folder
 ```
 ├───photos
 │   ├───albums1

@@ -89,6 +89,11 @@
     {
       "width": 1342,
       "height": 1037,
+      "src": "./photos/Coursera/Coursera-Introduction-to-Cybersecurity-Tools-Cyber-Attacks.png"
+    },
+    {
+      "width": 1342,
+      "height": 1037,
       "src": "./photos/Coursera/Coursera-Penetration-Testing-Incident-Response-and-Forensics.png"
     }
   ],
@@ -285,6 +290,11 @@
       "width": 5280,
       "height": 4080,
       "src": "./photos/IBM/IBM-Cybersecurity-Breach-Case-Studies.png"
+    },
+    {
+      "width": 5280,
+      "height": 4080,
+      "src": "./photos/IBM/IBM-Introduction-to-Cybersecurity-Tools-Cyber-Attacks.png"
     },
     {
       "width": 5280,

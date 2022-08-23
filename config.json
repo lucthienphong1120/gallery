@@ -67,12 +67,22 @@
     {
       "width": 2000,
       "height": 1428,
-      "src": "./photos/CodeLearn/CodeLearn-python-fundamentals.png"
+      "src": "./photos/CodeLearn/CodeLearn-Introdution-to-SQL.png"
     },
     {
       "width": 2000,
       "height": 1428,
-      "src": "./photos/CodeLearn/CodeLearn_certification.png"
+      "src": "./photos/CodeLearn/CodeLearn-Java-fundamentals.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
+      "src": "./photos/CodeLearn/CodeLearn-JavaScript-basics.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
+      "src": "./photos/CodeLearn/CodeLearn-python-fundamentals.png"
     }
   ],
   "Coursera": [
@@ -596,6 +606,11 @@
   ],
   "WHO": [
     {
+      "width": 1070,
+      "height": 916,
+      "src": "./photos/WHO/ndvp-en_open_badge.png"
+    },
+    {
       "width": 1798,
       "height": 1304,
       "src": "./photos/WHO/WHO-Health-Emergency-and-Disaster-Risk-Management-for-Resilient-Cities.png"
@@ -614,6 +629,11 @@
       "width": 1798,
       "height": 1303,
       "src": "./photos/WHO/WHO-Introduction-to-Marburg-Virus-Disease.png"
+    },
+    {
+      "width": 1192,
+      "height": 824,
+      "src": "./photos/WHO/WHO-Pandemic-Influenza-Vaccines-National-Deployment-and-Vaccination-Plans.png"
     },
     {
       "width": 1798,

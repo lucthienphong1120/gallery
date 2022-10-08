@@ -21,10 +21,16 @@ body {
 }
 
 .description {
-    margin-bottom: 40px;
+    margin-bottom: 20px;
     font-size: 17px;
-    font-style: italic;
     color: #333;
+}
+
+.note {
+    margin-bottom: 40px;
+    font-size: 14px;
+    font-style: italic;
+    color: #ccc;
 }
 
 #gallery {}

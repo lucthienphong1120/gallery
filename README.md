@@ -37,6 +37,11 @@ python setup.py
 ```
 - Personalize the contents of website at `info.json`.
 - Commit all change and host your repo with github page
+```
+git add -A
+git commit -m "commit"
+git push origin main
+```
 - ... and that's all your gallery
 
 ## How It Works

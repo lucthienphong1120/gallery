@@ -82,6 +82,11 @@
     {
       "width": 2000,
       "height": 1428,
+      "src": "./photos/CodeLearn/CodeLearn-Object-Oriented-Programming-in-Java.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
       "src": "./photos/CodeLearn/CodeLearn-python-fundamentals.png"
     }
   ],
@@ -122,6 +127,16 @@
       "width": 1683,
       "height": 1190,
       "src": "./photos/Cybrary/cybrary-basic-evimetry-deadboot-forensic-acquisition-wired-and-local.png"
+    },
+    {
+      "width": 1123,
+      "height": 794,
+      "src": "./photos/Cybrary/cybrary-cert-5-power-ups-for-your-insider-threat-program.png"
+    },
+    {
+      "width": 1123,
+      "height": 794,
+      "src": "./photos/Cybrary/cybrary-cert-cloudtamer-io-cloud-governance-principles.png"
     },
     {
       "width": 1683,
@@ -243,6 +258,18 @@
       "width": 938,
       "height": 677,
       "src": "./photos/F8/Responsive-Web-Design.png"
+    }
+  ],
+  "Fortinet": [
+    {
+      "width": 2339,
+      "height": 1701,
+      "src": "./photos/Fortinet/Fortinet-NSE 1-Network-Security-Associate.jpg"
+    },
+    {
+      "width": 1058,
+      "height": 539,
+      "src": "./photos/Fortinet/Fortinet-NSE-1.png"
     }
   ],
   "GCF Learn": [

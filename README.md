@@ -46,7 +46,7 @@ git push origin main
 
 ## How It Works
 
-- I use I use VueJS framework to render items and use Python to aggregate data 🔥
+- I used VueJS framework to render items and use Python to aggregate data 🔥
 - `setup.py` will go through all of folders in `/photos/` directory and create a `config.json` file.
 - It will collects all of information of each photo in your albums. It aggregates all data into one file called `config.json`.
 - Once you've created your `config.json`, the website can use it to figure out which photos to show.

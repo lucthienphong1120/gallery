@@ -35,7 +35,7 @@ git clone https://github.com/lucthienphong1120/gallery
 ```
 python setup.py
 ```
-- Personalize the contents of website at `info.json`.
+- Personalize the contents of website at `info.json`. (Title, Description, Note)
 - Commit all change and host your repo with github page
 ```
 git add -A

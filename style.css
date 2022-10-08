@@ -14,14 +14,14 @@ body {
 }
 
 .title {
-    margin: 50px 0 20px;
+    margin: 50px 0 15px;
     font-weight: 900;
     font-size: 35px;
     color: #000;
 }
 
 .description {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 17px;
     color: #333;
 }

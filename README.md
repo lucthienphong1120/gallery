@@ -2,7 +2,7 @@
 
 An flexible gallery generator for your images and albums, a free portfolio solution for your photos.
 
-This library also includes [img previewer](https://github.com/lucthienphong1120/img-previewer) feature
+This library also includes [img-previewer](https://github.com/lucthienphong1120/img-previewer) feature
 
 ## How to use
 

@@ -6,6 +6,13 @@
       "src": "./photos/BitDegree/bitdegree-Introducing-Coding-for-Beginners-an-HTML-and-CSS-Online-Course-1.jpg"
     }
   ],
+  "Capital Volunteer Club": [
+    {
+      "width": 2622,
+      "height": 3709,
+      "src": "./photos/Capital Volunteer Club/Nguyen Duc Chung.jpg"
+    }
+  ],
   "Code Org": [
     {
       "width": 1754,
@@ -218,9 +225,24 @@
       "src": "./photos/EF SET/EFSET-B1-Intermediate.png"
     },
     {
+      "width": 1365,
+      "height": 1032,
+      "src": "./photos/EF SET/EFSET-B1-verify.png"
+    },
+    {
       "width": 2886,
       "height": 4081,
       "src": "./photos/EF SET/EFSET-B2-Upper-Intermediate.png"
+    },
+    {
+      "width": 2886,
+      "height": 4081,
+      "src": "./photos/EF SET/EFSET-C1-Advanced.png"
+    },
+    {
+      "width": 1366,
+      "height": 1018,
+      "src": "./photos/EF SET/EFSET-C1-verify.png"
     }
   ],
   "F8": [
@@ -470,6 +492,13 @@
       "width": 3521,
       "height": 2488,
       "src": "./photos/SimpliLearn/SimpliLearn-Introduction-to-Cyber-Security.png"
+    }
+  ],
+  "TryHackMe": [
+    {
+      "width": 1020,
+      "height": 620,
+      "src": "./photos/TryHackMe/THM-Advent-of-Cyber-2022.png"
     }
   ],
   "Udemy": [

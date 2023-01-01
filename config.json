@@ -401,6 +401,23 @@
       "src": "./photos/IBM/IBM-Penetration-Testing-Incident-Response-and-Forensics.png"
     }
   ],
+  "NICxGoogle": [
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/NICxGoogle/NICxGoogle-Ask-Questions-to-Make-Data-Driven-Decisions.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/NICxGoogle/NICxGoogle-Foundations-Data-Data-Everywhere.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/NICxGoogle/NICxGoogle-Prepare-Data-for-Exploration.png"
+    }
+  ],
   "Programming Hub": [
     {
       "width": 900,

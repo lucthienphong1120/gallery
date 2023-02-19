@@ -8,9 +8,34 @@
   ],
   "Capital Volunteer Club": [
     {
+      "width": 868,
+      "height": 1236,
+      "src": "./photos/Capital Volunteer Club/Bocales.jpg"
+    },
+    {
+      "width": 960,
+      "height": 1280,
+      "src": "./photos/Capital Volunteer Club/Em-yeu-HN.jpg"
+    },
+    {
+      "width": 1655,
+      "height": 2340,
+      "src": "./photos/Capital Volunteer Club/Honda-thank-day.png"
+    },
+    {
       "width": 2622,
       "height": 3709,
       "src": "./photos/Capital Volunteer Club/Nguyen Duc Chung.jpg"
+    },
+    {
+      "width": 946,
+      "height": 694,
+      "src": "./photos/Capital Volunteer Club/Tiep-suc-mua-thi-2022.jpg"
+    },
+    {
+      "width": 1655,
+      "height": 2340,
+      "src": "./photos/Capital Volunteer Club/Tuyen-duong-thu-khoa.png"
     }
   ],
   "Code Org": [

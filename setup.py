@@ -141,4 +141,4 @@ def getImageInfo(data):
 
 if __name__ == '__main__':
     run()
-    time.sleep(5)
+    time.sleep(3)

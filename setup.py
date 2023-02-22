@@ -140,4 +140,5 @@ def getImageInfo(data):
     return content_type, width, height
 
 if __name__ == '__main__':
-    sys.exit(run())
+    run()
+    time.sleep(3)

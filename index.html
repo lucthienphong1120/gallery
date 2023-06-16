@@ -28,7 +28,9 @@
                 <div class="album-content">
                     <div class="album-photo" v-for="item in items">
                         <!-- <a v-bind:href="item.src" target="_blank"> -->
-                            <img class="photo" v-bind:src="item.src">
+                        <img class="photo" v-bind:src="item.src" loading="lazy" alt="certification"
+                            onload="stopSpinner(this)">
+                        <div class="spinner"></div>
                         <!-- </a> -->
                     </div>
                 </div>
@@ -53,10 +55,15 @@
 </script>
 <script src="./dist/img-previewer.js"></script>
 <script>
-    window.onload = function(){
+    window.onload = function () {
         const imgPreviewer = new ImgPreviewer('#app', {
             scrollbar: true
         });
+    }
+    function stopSpinner(image) {
+        // Dừng hoặc loại bỏ spinner
+        const spinner = image.parentElement.querySelector('.spinner');
+        spinner.remove();
     }
 </script>
 

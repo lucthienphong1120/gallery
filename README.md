@@ -33,9 +33,9 @@ git clone https://github.com/lucthienphong1120/gallery
 ```
 - In Windows, open your terminal and run
 ```
-python setup.py
+python data/setup.py
 ```
-- Personalize the contents of website at `info.json`. (Title, Description, Note)
+- Personalize the contents of website at `data/info.json`. (Title, Description, Note)
 - Commit all change and host your repo with github page
 ```
 git add -A
@@ -44,9 +44,17 @@ git push origin main
 ```
 - ... and that's all your gallery
 
+## Automate processing
+
+In windows, you can automate your process by running:
+```
+sync.bat
+```
+It includes update config, sync data, commit and push to your deploy too!
+
 ## How It Works
 
 - I used VueJS framework to render items and use Python to aggregate data 🔥
-- `setup.py` will go through all of folders in `/photos/` directory and create a `config.json` file.
-- It will collects all of information of each photo in your albums. It aggregates all data into one file called `config.json`.
-- Once you've created your `config.json`, the website can use it to figure out which photos to show.
+- `setup.py` will go through all of folders in `/photos/` directory and create a `data/config.json` file.
+- It will collects all of information of each photo in your albums. It aggregates all data into one file called `data/config.json`.
+- Once you've created your `data/config.json`, the website can use it to figure out which photos to show.

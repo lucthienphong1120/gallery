@@ -5,11 +5,16 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Gallery</title>
-    <link rel="icon" type="image/png" href="./crf.jpg">
-    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
-    <link rel="stylesheet" href="./style.css">
+    <title>Luc Thien Phong's Gallery</title>
+    <link rel="icon" href="https://cdn.crfnetwork.cyou/images/crf/crf-logo-clean.png" type="image/x-icon">
+    <meta property="og:title" content="Luc Thien Phong's Gallery">
+    <meta property="og:description" content="My certification Showcase">
+    <meta property="og:image" content="https://cdn.crfnetwork.cyou/images/crf/crf-banner.png">
+    <meta property="og:url" content="https://ltp.crfnetwork.cyou/gallery/">
+    <meta property="og:type" content="website">
+    <link rel="stylesheet" href="./dist/style.css">
     <link rel="stylesheet" href="./dist/img-previewer.css">
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
 </head>
 
 <body>
@@ -33,8 +38,8 @@
 </body>
 
 <script type="module">
-    import json from './config.json' assert { type: 'json' };
-    import info from './info.json' assert { type: 'json' };
+    import json from './data/config.json' assert { type: 'json' };
+    import info from './data/info.json' assert { type: 'json' };
     const app = new Vue({
         el: '#app',
         data: {

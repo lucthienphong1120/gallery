@@ -1,7 +1,7 @@
 @echo off
 color 2
 git pull
-python data/setup.py
+python setup.py
 echo ---------------------------------------------------
 git add -A
 git commit -m "Automatic update by sync.bat"

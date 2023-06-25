@@ -31,13 +31,17 @@
                     <div class="album-photo" v-for="item in items">
                         <!-- <a v-bind:href="item.src" target="_blank"> -->
                         <img class="photo" v-bind:src="item.src" loading="lazy" alt="certification"
-                            onload="stopSpinner(this)">
+                            @load="stopSpinner($event.target)">
                         <div class="spinner"></div>
                         <!-- </a> -->
                     </div>
                 </div>
             </section>
         </div>
+
+        <button class="scroll-top-btn" @click="scrollToTop">
+            Scroll to Top
+        </button>
     </div>
 </body>
 
@@ -59,30 +63,48 @@
                 return count;
             }
         },
-        mounted() {
-            // set document title
-            document.title = info.name;
-            // set album count animation
-            const albumCount = document.querySelector('.album-count span');
-            const totalImages = this.totalImages;
-            let count = 0;
-            let waitTime = 100;
-            albumCount.textContent = count;
-            const interval = setInterval(() => {
-                count++;
+        methods: {
+            scrollToTop() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            },
+            stopSpinner(image) {
+                // Dừng hoặc loại bỏ spinner
+                const spinner = image.parentElement.querySelector('.spinner');
+                spinner.remove();
+            },
+            initImgPreviewer() {
+                const imgPreviewer = new ImgPreviewer('#app', {
+                    scrollbar: true
+                });
+            },
+            albumsCountAnimation() {
+                const albumCount = document.querySelector('.album-count span');
+                const totalImages = this.totalImages;
+                let count = 0;
+                let waitTime = 100;
                 albumCount.textContent = count;
-                console.log(waitTime);
-                if (count === totalImages) {
-                    clearInterval(interval);
-                }
-                if (waitTime > 2) {
-                    waitTime-=2;
-                }
-            }, waitTime);
+                const interval = setInterval(() => {
+                    count++;
+                    albumCount.textContent = count;
+                    if (count === totalImages) {
+                        clearInterval(interval);
+                    }
+                    if (waitTime > 2) {
+                        waitTime -= 2;
+                    }
+                }, waitTime);
+            }
+        },
+        mounted() {
+            document.title = info.name;
+            this.albumsCountAnimation();
+            this.initImgPreviewer();
         }
     });
 </script>
 <script src="./dist/img-previewer.js"></script>
-<script src="./dist/script.js"></script>
 
 </html>

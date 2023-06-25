@@ -11,10 +11,12 @@ body {
 #app {
     margin: 0 auto;
     max-width: 1000px;
+    position: relative;
+    margin-top: 80px;
 }
 
 .title {
-    margin: 80px 0 10px;
+    margin: 10px 0;
     font-weight: 900;
     font-size: 35px;
     color: #000;
@@ -31,6 +33,16 @@ body {
     font-size: 14px;
     font-style: italic;
     color: #999;
+}
+
+.album-count {
+    position: absolute;
+    top: -50px;
+    right: 0;
+    padding: 10px;
+    background: #33ac41;
+    color: white;
+    border-radius: 20px;
 }
 
 #gallery {}
@@ -64,6 +76,16 @@ section {
     height: 173.145px;
     object-fit: cover;
     object-position: top;
+}
+
+.scroll-top-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px;
+    background-color: #ccc;
+    border: none;
+    cursor: pointer;
 }
 
 .spinner {

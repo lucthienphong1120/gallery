@@ -150,6 +150,11 @@
     {
       "width": 2000,
       "height": 1428,
+      "src": "./photos/CodeLearn/CodeLearn-Object-Oriented-Programming-in-C++.png"
+    },
+    {
+      "width": 2000,
+      "height": 1428,
       "src": "./photos/CodeLearn/CodeLearn-Object-Oriented-Programming-in-Java.png"
     },
     {
@@ -188,6 +193,18 @@
       "width": 2200,
       "height": 1700,
       "src": "./photos/Coursera/Coursera-Technical-Support-Fundamentals.png"
+    }
+  ],
+  "CyberKid": [
+    {
+      "width": 1280,
+      "height": 960,
+      "src": "./photos/CyberKid/CyberSchool-letter.jpg"
+    },
+    {
+      "width": 1269,
+      "height": 952,
+      "src": "./photos/CyberKid/CyberSchool-Q1-2023.jpg"
     }
   ],
   "Cybrary": [

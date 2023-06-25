@@ -22,6 +22,8 @@
         <h2 class="title">{{infos.title}}</h2>
         <p class="description">{{infos.description}}</p>
         <p class="note">{{infos.note}}</p>
+        <p class="album-count">Total Images: <span> 0 </span></p>
+
         <div id="gallery">
             <section v-for="(items, title) in albums" v-bind:name="title">
                 <h3 class="album-name">{{title}}</h3>
@@ -45,26 +47,42 @@
     const app = new Vue({
         el: '#app',
         data: {
+            infos: info,
             albums: json,
-            infos: info
+        },
+        computed: {
+            totalImages() {
+                let count = 0;
+                for (let title in this.albums) {
+                    count += this.albums[title].length;
+                }
+                return count;
+            }
         },
         mounted() {
+            // set document title
             document.title = info.name;
-        },
+            // set album count animation
+            const albumCount = document.querySelector('.album-count span');
+            const totalImages = this.totalImages;
+            let count = 0;
+            let waitTime = 100;
+            albumCount.textContent = count;
+            const interval = setInterval(() => {
+                count++;
+                albumCount.textContent = count;
+                console.log(waitTime);
+                if (count === totalImages) {
+                    clearInterval(interval);
+                }
+                if (waitTime > 2) {
+                    waitTime-=2;
+                }
+            }, waitTime);
+        }
     });
 </script>
 <script src="./dist/img-previewer.js"></script>
-<script>
-    window.onload = function () {
-        const imgPreviewer = new ImgPreviewer('#app', {
-            scrollbar: true
-        });
-    }
-    function stopSpinner(image) {
-        // Dừng hoặc loại bỏ spinner
-        const spinner = image.parentElement.querySelector('.spinner');
-        spinner.remove();
-    }
-</script>
+<script src="./dist/script.js"></script>
 
 </html>

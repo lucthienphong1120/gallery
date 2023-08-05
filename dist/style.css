@@ -45,14 +45,11 @@ body {
     border-radius: 20px;
 }
 
-#gallery {}
-
 section {
-    margin-bottom: 50px;
+    margin-bottom: 30px;
 }
 
 .album-name {
-    margin-bottom: 20px;
     color: #666;
     font-size: 20px;
     font-weight: 400;
@@ -62,7 +59,7 @@ section {
 .album-content {
     display: flex;
     flex-wrap: wrap;
-    margin: 0 -5px;
+    margin: 5px -5px;
 }
 
 .album-photo {

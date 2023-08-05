@@ -26,16 +26,18 @@
 
         <div id="gallery">
             <section v-for="(items, title) in albums" v-bind:name="title">
-                <h3 class="album-name">{{title}}</h3>
-                <div class="album-content">
-                    <div class="album-photo" v-for="item in items">
-                        <!-- <a v-bind:href="item.src" target="_blank"> -->
-                        <img class="photo" v-bind:src="item.src" loading="lazy" alt="certification"
-                            @load="stopSpinner($event.target)">
-                        <div class="spinner"></div>
-                        <!-- </a> -->
+                <details>
+                    <summary class="album-name">{{title}}</summary>
+                    <div class="album-content">
+                        <div class="album-photo" v-for="item in items">
+                            <!-- <a v-bind:href="item.src" target="_blank"> -->
+                            <img class="photo" v-bind:src="item.src" loading="lazy" alt="certification"
+                                @load="stopSpinner($event.target)">
+                            <div class="spinner"></div>
+                            <!-- </a> -->
+                        </div>
                     </div>
-                </div>
+                </details>
             </section>
         </div>
 

@@ -93,7 +93,7 @@ details[open] summary::after {
 }
 
 .photo {
-    border: 1px solid rgba(0, 0, 0, .05);
+    border: 1px solid rgba(0, 0, 0, 0.1);
     width: 242.5px;
     height: 173.145px;
     object-fit: cover;

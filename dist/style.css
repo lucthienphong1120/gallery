@@ -50,10 +50,35 @@ section {
 }
 
 .album-name {
-    color: #666;
+    color: #333;
     font-size: 20px;
     font-weight: 400;
     letter-spacing: 2px;
+    padding: 0.5rem 0;
+    border-top: 1px solid #999;
+    position: relative;
+    cursor: pointer;
+}
+
+details[open] summary~* {
+    animation: open 0.5s ease-in-out;
+}
+
+details summary::after {
+    content: "+";
+    color: #333;
+    position: absolute;
+    font-size: 30px;
+    line-height: 0;
+    margin-top: 10px;
+    right: 0;
+    transform-origin: center;
+    transition: 200ms linear;
+}
+
+details[open] summary::after {
+    transform: rotate(45deg);
+    font-size: 2rem;
 }
 
 .album-content {
@@ -105,5 +130,17 @@ section {
 
     100% {
         transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+@keyframes open {
+    0% {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+
+    100% {
+        opacity: 1;
+        transform: translateY(0px);
     }
 }

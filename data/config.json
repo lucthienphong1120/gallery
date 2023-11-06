@@ -11,6 +11,11 @@
       "width": 1137,
       "height": 855,
       "src": "./photos/BKACAD/BKACAD-top-1-QTM-2021-2022.jpg"
+    },
+    {
+      "width": 960,
+      "height": 1280,
+      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2022-2023.jpg"
     }
   ],
   "Canva": [
@@ -54,6 +59,11 @@
   ],
   "Cisco": [
     {
+      "width": 600,
+      "height": 600,
+      "src": "./photos/Cisco/Cisco-ccna-enterprise-networking-security-and-automation.png"
+    },
+    {
       "width": 2339,
       "height": 1654,
       "src": "./photos/Cisco/Cisco-CCNAv7-Cisco.png"
@@ -67,6 +77,16 @@
       "width": 1654,
       "height": 2339,
       "src": "./photos/Cisco/Cisco-CCNAv7-Letter.png"
+    },
+    {
+      "width": 680,
+      "height": 680,
+      "src": "./photos/Cisco/Cisco-Data-Analytics-Essentials.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Cisco/Data_Analytics_Essentials_Badge.png"
     }
   ],
   "Code Org": [
@@ -484,14 +504,29 @@
   ],
   "IBM": [
     {
+      "width": 600,
+      "height": 600,
+      "src": "./photos/IBM/IBM-Cybersecurity-Breach-Case-Studies-badge.png"
+    },
+    {
       "width": 5280,
       "height": 4080,
       "src": "./photos/IBM/IBM-Cybersecurity-Breach-Case-Studies.png"
     },
     {
+      "width": 340,
+      "height": 340,
+      "src": "./photos/IBM/IBM-Introduction-to-Cybersecurity-Tools-Cyber-Attacks-badge.png"
+    },
+    {
       "width": 5280,
       "height": 4080,
       "src": "./photos/IBM/IBM-Introduction-to-Cybersecurity-Tools-Cyber-Attacks.png"
+    },
+    {
+      "width": 600,
+      "height": 600,
+      "src": "./photos/IBM/IBM-Penetration-Testing-Incident-Response-and-Forensics-badge.png"
     },
     {
       "width": 5280,
@@ -507,6 +542,11 @@
     }
   ],
   "Microsoft": [
+    {
+      "width": 340,
+      "height": 340,
+      "src": "./photos/Microsoft/Microsoft-AZ-900-badge.png"
+    },
     {
       "width": 1683,
       "height": 1189,
@@ -586,6 +626,11 @@
       "width": 1683,
       "height": 1189,
       "src": "./photos/Microsoft/Microsoft-SC-200-Mitigate-threats-using-Microsoft-Defender-for-Endpoint.png"
+    },
+    {
+      "width": 340,
+      "height": 340,
+      "src": "./photos/Microsoft/Microsoft-SC-900-badge.png"
     },
     {
       "width": 1584,
@@ -670,6 +715,13 @@
       "width": 900,
       "height": 636,
       "src": "./photos/Programming Hub/prghub-WordPress-Development.jpg"
+    }
+  ],
+  "Quizizz": [
+    {
+      "width": 2667,
+      "height": 1667,
+      "src": "./photos/Quizizz/Quizizz-Certified-Game-Changer-1.png"
     }
   ],
   "SamSung": [

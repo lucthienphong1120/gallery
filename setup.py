@@ -25,7 +25,7 @@ def is_image(path):
 
 
 def get_path(path, ext):
-    return re.sub(r'\.(png|jpe?g)$', '.' + ext + '.\g<1>', path)
+    return re.sub(r'\.(png|jpe?g)$', '.' + ext + r'.\1', path)
 
 
 def get_images(path):

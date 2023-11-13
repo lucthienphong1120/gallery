@@ -59,6 +59,11 @@
   ],
   "Cisco": [
     {
+      "width": 2420,
+      "height": 1870,
+      "src": "./photos/Cisco/Cisco Certified Network Associate certificate.png"
+    },
+    {
       "width": 600,
       "height": 600,
       "src": "./photos/Cisco/Cisco-ccna-enterprise-networking-security-and-automation.png"

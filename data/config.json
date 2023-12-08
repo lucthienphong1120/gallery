@@ -412,6 +412,11 @@
   ],
   "Fortinet": [
     {
+      "width": 680,
+      "height": 680,
+      "src": "./photos/Fortinet/Fortinet-Certified-Fundamentals-Cybersecurity-badge.png"
+    },
+    {
       "width": 2339,
       "height": 1701,
       "src": "./photos/Fortinet/Fortinet-Information-Security-Awareness-1.png"
@@ -440,6 +445,16 @@
       "width": 2339,
       "height": 1701,
       "src": "./photos/Fortinet/Fortinet-The-Evolution-of-Cybersecurity-1.png"
+    },
+    {
+      "width": 680,
+      "height": 680,
+      "src": "./photos/Fortinet/Getting-Started-in-Cybersecurity-1.0-badge.png"
+    },
+    {
+      "width": 680,
+      "height": 680,
+      "src": "./photos/Fortinet/Introduction-to-the-Threat-Landscape-1.0-badge.png"
     }
   ],
   "GCF Learn": [
@@ -770,6 +785,98 @@
       "src": "./photos/SimpliLearn/SimpliLearn-Introduction-to-Cyber-Security.png"
     }
   ],
+  "Splunk": [
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Comparing-Values.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Core-Certified-Power-User.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Creating-Field-Extractions.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Creating-Knowledge-Objects.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Data-Models.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Intro-to-Knowledge-Objects.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Intro-to-Splunk-1.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Intro-to-Splunk.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Result-Modification.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Statistical-Processing-1.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Statistical-Processing.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Using-Fields-1.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Using-Fields.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Visualizations.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-What-is-Splunk.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Working-with-Time-1.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk/Splunk-Working-with-Time.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/SplunkCoreCertifiedPowerUser_Badge.png"
+    }
+  ],
   "TryHackMe": [
     {
       "width": 1020,
@@ -797,6 +904,16 @@
       "width": 1600,
       "height": 1190,
       "src": "./photos/Udemy/udemy-Animate-a-business-presentation-in-PowerPoint-from-scratch.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "src": "./photos/Udemy/udemy-Atlassian-Confluence-A-Z-Confluence-for-New-Users.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "src": "./photos/Udemy/udemy-Becoming-A-Recruitment-And-Selection-Specialist.jpg"
     },
     {
       "width": 1600,
@@ -851,12 +968,27 @@
     {
       "width": 1600,
       "height": 1190,
+      "src": "./photos/Udemy/udemy-Data-Science-Data-Preparation-Quality-Assurance-Excel.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "src": "./photos/Udemy/udemy-Data-Wrangling-Data-Analysis-Masterclass-with-Python.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
       "src": "./photos/Udemy/Udemy-Der-Komplette-Excel-Kurs-Vom-Anf\u00e4nger-zum-Profi-in-50h.jpg"
     },
     {
       "width": 1600,
       "height": 1190,
       "src": "./photos/Udemy/Udemy-Design-Thinking-Design-Sprint-Start-a-business-in-days.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "src": "./photos/Udemy/udemy-Elixir-for-Beginners-programming-language.jpg"
     },
     {
       "width": 1600,
@@ -872,6 +1004,11 @@
       "width": 1600,
       "height": 1190,
       "src": "./photos/Udemy/Udemy-Haskell-for-Beginners-programming-language.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "src": "./photos/Udemy/udemy-Hiring-Process-Talent-Management.jpg"
     },
     {
       "width": 1600,
@@ -902,6 +1039,11 @@
       "width": 1600,
       "height": 1190,
       "src": "./photos/Udemy/Udemy-Learn-HTML-For-Beginners.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
+      "src": "./photos/Udemy/udemy-Make-Money-From-Home-12-EASY-Options-to-Make-Money-Now.jpg"
     },
     {
       "width": 1600,
@@ -966,6 +1108,11 @@
     {
       "width": 1600,
       "height": 1190,
+      "src": "./photos/Udemy/udemy-Rust-for-Beginners.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1190,
       "src": "./photos/Udemy/udemy-the-complete-Excel-course-from-beginner-to-professional-in-40h.jpg"
     },
     {
@@ -1016,6 +1163,13 @@
       "width": 1500,
       "height": 1032,
       "src": "./photos/Viblo Learning/Viblo-Python-Essentials.jpg"
+    }
+  ],
+  "VTC": [
+    {
+      "width": 4000,
+      "height": 3000,
+      "src": "./photos/VTC/VTC-Game-Design-Development.png"
     }
   ],
   "WHO": [

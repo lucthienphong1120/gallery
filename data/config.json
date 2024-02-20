@@ -57,6 +57,28 @@
       "src": "./photos/Capital Volunteer Club/Tuyen-duong-thu-khoa.png"
     }
   ],
+  "Chronicle": [
+    {
+      "width": 3509,
+      "height": 2479,
+      "src": "./photos/Chronicle/Chronicle-Certified-SOAR-Analyst-CCSA.png"
+    },
+    {
+      "width": 3509,
+      "height": 2479,
+      "src": "./photos/Chronicle/Chronicle-Certified-SOAR-Developer-CCSD.png"
+    },
+    {
+      "width": 3509,
+      "height": 2479,
+      "src": "./photos/Chronicle/Chronicle-SIEM -Fundamentals.png"
+    },
+    {
+      "width": 3509,
+      "height": 2479,
+      "src": "./photos/Chronicle/Chronicle-SOAR-Fundamentals-V6-CSFv6.png"
+    }
+  ],
   "Cisco": [
     {
       "width": 2420,
@@ -829,7 +851,22 @@
     {
       "width": 3300,
       "height": 2550,
+      "src": "./photos/Splunk/Splunk-Introduction-to-Dashboards.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Observability-Cloud-Enterprise-Features.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
       "src": "./photos/Splunk/Splunk-Result-Modification.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Scheduling-Reports-Alerts.png"
     },
     {
       "width": 2200,
@@ -840,6 +877,11 @@
       "width": 2200,
       "height": 1700,
       "src": "./photos/Splunk/Splunk-Statistical-Processing.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk/Splunk-Upgrading-Splunk-Enterprise.png"
     },
     {
       "width": 2200,
@@ -875,6 +917,88 @@
       "width": 3300,
       "height": 2550,
       "src": "./photos/Splunk/SplunkCoreCertifiedPowerUser_Badge.png"
+    }
+  ],
+  "Splunk Partnerverse": [
+    {
+      "width": 1104,
+      "height": 600,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Platform-SE-I.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Sales-Rep-I-Cert.png"
+    },
+    {
+      "width": 1104,
+      "height": 600,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Sales-Rep-I.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Sales-Rep-II-Cert.png"
+    },
+    {
+      "width": 1104,
+      "height": 600,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Sales-Rep-II.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Security-Sales-Rep-I-Cert.png"
+    },
+    {
+      "width": 1104,
+      "height": 600,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Security-Sales-Rep-I.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Technical-Selling-Foundations-Cert.png"
+    },
+    {
+      "width": 1104,
+      "height": 600,
+      "src": "./photos/Splunk Partnerverse/Splunk-Accredited-Technical-Selling-Foundations.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/Splunk-Core-Certified-Power-User-Cert.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/SplunkAccreditedPlatformSEIPartner_Badge.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk Partnerverse/SplunkAccreditedSalesRepI-Badge.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Splunk Partnerverse/SplunkAccreditedSalesRepII_Badge.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/SplunkAccreditedSecuritySalesRepI_Badge.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/SplunkAccreditedTechnicalSellingFoundations_Badge.png"
+    },
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/Splunk Partnerverse/SplunkCoreCertifiedPowerUser_Badge.png"
     }
   ],
   "TryHackMe": [

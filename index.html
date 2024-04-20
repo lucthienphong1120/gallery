@@ -27,7 +27,7 @@
         <div id="gallery">
             <section v-for="(items, title) in albums" v-bind:name="title">
                 <details>
-                    <summary class="album-name">
+                    <summary class="album-name" v-bind:id="title">
                         <i>{{title}}</i>
                         <span>({{items.length}})</span>
                     </summary>
@@ -94,6 +94,9 @@
                         waitTime -= 2;
                     }
                 }, waitTime);
+            },
+            addIdToUrl(id) {
+                window.location.hash = id;
             }
         },
         mounted() {

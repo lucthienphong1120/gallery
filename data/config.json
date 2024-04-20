@@ -1,4 +1,53 @@
 {
+  "AWS Skillbuilder": [
+    {
+      "width": 3509,
+      "height": 2480,
+      "src": "./photos/AWS Skillbuilder/AWS-Billing-and-Cost-Management.png"
+    },
+    {
+      "width": 3509,
+      "height": 2480,
+      "src": "./photos/AWS Skillbuilder/AWS-Cloud-Essentials-Knowledge-Badge-Assessment.png"
+    },
+    {
+      "width": 3509,
+      "height": 2480,
+      "src": "./photos/AWS Skillbuilder/AWS-Cloud-Practitioner-Essentials.png"
+    },
+    {
+      "width": 3509,
+      "height": 2480,
+      "src": "./photos/AWS Skillbuilder/AWS-Foundations-Getting-Started-with-the-AWS-Cloud-Essentials.png"
+    },
+    {
+      "width": 3509,
+      "height": 2480,
+      "src": "./photos/AWS Skillbuilder/AWS-Job-Roles-in-the-Cloud.png"
+    }
+  ],
+  "Azure": [
+    {
+      "width": 340,
+      "height": 340,
+      "src": "./photos/Azure/Microsoft-AZ-900-badge.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Azure/Microsoft-AZ-900.png"
+    },
+    {
+      "width": 340,
+      "height": 340,
+      "src": "./photos/Azure/Microsoft-SC-900-badge.png"
+    },
+    {
+      "width": 1584,
+      "height": 1224,
+      "src": "./photos/Azure/Microsoft-SC-900.png"
+    }
+  ],
   "BitDegree": [
     {
       "width": 2339,
@@ -351,6 +400,13 @@
       "src": "./photos/Cybrary/cybrary-welcome-to-cybrary.png"
     }
   ],
+  "DevOpsEdu": [
+    {
+      "width": 3300,
+      "height": 2550,
+      "src": "./photos/DevOpsEdu/DevOpsEdu-DevOps-for-Freshers.png"
+    }
+  ],
   "Durham University": [
     {
       "width": 1654,
@@ -683,6 +739,105 @@
       "width": 1683,
       "height": 1189,
       "src": "./photos/Microsoft/Microsoft-Secure-the-Microsoft-365-Messaging-environment.png"
+    }
+  ],
+  "Microsoft Learn": [
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Azure-Fundamentals-Describe-Azure-architecture-and-services.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Azure-Fundamentals-Describe-Azure-management-and-governance.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Defend-against-threats-with-Microsoft-365.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Manage-content-search-and-investigations-in-Microsoft-365.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Manage-insider-risk-in-Microsoft-365.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Microsoft-Azure-Fundamentals-Describe-cloud-concepts.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-capabilities-of-Microsoft-compliance-solutions.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-capabilities-of-Microsoft-Identity-and-access-management-solutions.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-capabilities-of-Microsoft-security-solutions.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Microsoft-Security-Compliance-and-Identity-Fundamentals-Describe-the-concepts-of-security-compliance-and-identity.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-MS-500-part-4-Manage-Governance-and-Compliance-Features-in-Microsoft-365.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-MS-900-Microsoft-365-Fundamentals-Demonstrate-fundamental-knowledge-of-Microsoft-365-security-and-compliance-capabilities.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Safeguard-multi-cloud-apps-and-resources-with-cloud-security-solutions-from-Microsoft.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-SC-200-Mitigate-threats-using-Microsoft-365-Defender.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-SC-200-Mitigate-threats-using-Microsoft-Defender-for-Endpoint.png"
+    },
+    {
+      "width": 1683,
+      "height": 1189,
+      "src": "./photos/Microsoft Learn/Microsoft-Secure-the-Microsoft-365-Messaging-environment.png"
+    }
+  ],
+  "Netriders": [
+    {
+      "width": 3504,
+      "height": 2517,
+      "src": "./photos/Netriders/Cisco-NetAcad-Riders-2024-Bronze.png"
+    },
+    {
+      "width": 3504,
+      "height": 2517,
+      "src": "./photos/Netriders/Cisco-NetAcad-Riders-2024-Gold.png"
+    },
+    {
+      "width": 3504,
+      "height": 2517,
+      "src": "./photos/Netriders/Cisco-NetAcad-Riders-2024-Silver.png"
     }
   ],
   "NICxGoogle": [

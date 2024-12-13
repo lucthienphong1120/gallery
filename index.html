@@ -49,8 +49,6 @@
 </body>
 
 <script type="module">
-    import json from './data/config.json' assert { type: 'json' };
-    import info from './data/info.json' assert { type: 'json' };
     const app = new Vue({
         el: '#app',
         data: {
@@ -99,8 +97,16 @@
                 window.location.hash = id;
             }
         },
-        mounted() {
-            document.title = info.name;
+        async mounted() {
+            // Sử dụng fetch để lấy dữ liệu JSON
+            const [infoRes, albumsRes] = await Promise.all([
+                fetch('./data/info.json'),
+                fetch('./data/config.json')
+            ]);
+            this.infos = await infoRes.json();
+            this.albums = await albumsRes.json();
+            
+            document.title = this.infos.name;
             this.albumsCountAnimation();
             this.initImgPreviewer();
         }

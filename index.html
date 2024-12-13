@@ -47,7 +47,7 @@
         </button>
     </div>
 </body>
-
+<script src="./dist/img-previewer.js"></script>
 <script type="module">
     const app = new Vue({
         el: '#app',
@@ -72,10 +72,12 @@
                 });
             },
             initImgPreviewer() {
-                const imgPreviewer = new ImgPreviewer('#app', {
-                    scrollbar: true
+                this.$nextTick(() => {
+                    const imgPreviewer = new ImgPreviewer('#app', {
+                        scrollbar: true
+                    });
                 });
-            },
+            }
             albumsCountAnimation() {
                 const albumCount = document.querySelector('.album-count span');
                 const totalImages = this.totalImages;
@@ -121,6 +123,4 @@
         }
     });
 </script>
-<script src="./dist/img-previewer.js"></script>
-
 </html>

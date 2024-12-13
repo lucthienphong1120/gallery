@@ -52,8 +52,8 @@
     const app = new Vue({
         el: '#app',
         data: {
-            infos: info,
-            albums: json,
+            infos: {}, // Khởi tạo rỗng
+            albums: {}, // Khởi tạo rỗng
         },
         computed: {
             totalImages() {
@@ -98,17 +98,26 @@
             }
         },
         async mounted() {
-            // Sử dụng fetch để lấy dữ liệu JSON
-            const [infoRes, albumsRes] = await Promise.all([
-                fetch('./data/info.json'),
-                fetch('./data/config.json')
-            ]);
-            this.infos = await infoRes.json();
-            this.albums = await albumsRes.json();
-            
-            document.title = this.infos.name;
-            this.albumsCountAnimation();
-            this.initImgPreviewer();
+            try {
+                // Nạp dữ liệu từ các tệp JSON
+                const [infoRes, albumsRes] = await Promise.all([
+                    fetch('./data/info.json'),
+                    fetch('./data/config.json')
+                ]);
+
+                // Gán dữ liệu vào các thuộc tính Vue
+                this.infos = await infoRes.json();
+                this.albums = await albumsRes.json();
+
+                // Thiết lập tiêu đề trang
+                document.title = this.infos.name;
+
+                // Chạy các chức năng bổ sung
+                this.albumsCountAnimation();
+                this.initImgPreviewer();
+            } catch (error) {
+                console.error('Error loading JSON data:', error);
+            }
         }
     });
 </script>

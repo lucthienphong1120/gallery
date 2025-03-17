@@ -82,7 +82,7 @@
                 const albumCount = document.querySelector('.album-count span');
                 const totalImages = this.totalImages;
                 let count = 0;
-                let waitTime = 100;
+                let waitTime = 10;
                 albumCount.textContent = count;
                 const interval = setInterval(() => {
                     count++;
@@ -90,8 +90,8 @@
                     if (count === totalImages) {
                         clearInterval(interval);
                     }
-                    if (waitTime > 2) {
-                        waitTime -= 2;
+                    if (waitTime > 1) {
+                        waitTime -= 1;
                     }
                 }, waitTime);
             },

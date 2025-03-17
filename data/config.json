@@ -57,14 +57,31 @@
   ],
   "BKACAD": [
     {
+      "width": 1280,
+      "height": 960,
+      "src": "./photos/BKACAD/BKACAD-thu-khoa-QTM-2024.jpg"
+    },
+    {
       "width": 1137,
       "height": 855,
-      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2021-2022.jpg"
+      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2021.jpg"
     },
     {
       "width": 960,
       "height": 1280,
-      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2022-2023.jpg"
+      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2022.jpg"
+    },
+    {
+      "width": 1280,
+      "height": 960,
+      "src": "./photos/BKACAD/BKACAD-top-1-QTM-2023.jpg"
+    }
+  ],
+  "Bravo": [
+    {
+      "width": 1280,
+      "height": 917,
+      "src": "./photos/Bravo/Bravo-lao-dong-tieu-bieu-2024.jpg"
     }
   ],
   "Canva": [

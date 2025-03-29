@@ -661,6 +661,13 @@
       "src": "./photos/ICANTECH/ICT-t8-2023.jpg"
     }
   ],
+  "Linux": [
+    {
+      "width": 2750,
+      "height": 2125,
+      "src": "./photos/Linux/Linux-LPIC-1.png"
+    }
+  ],
   "Microsoft": [
     {
       "width": 340,

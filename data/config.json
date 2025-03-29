@@ -663,6 +663,11 @@
   ],
   "Linux": [
     {
+      "width": 2048,
+      "height": 2048,
+      "src": "./photos/Linux/Linux-lpic-1-certification.png"
+    },
+    {
       "width": 2750,
       "height": 2125,
       "src": "./photos/Linux/Linux-LPIC-1.png"

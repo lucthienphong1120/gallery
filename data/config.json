@@ -670,12 +670,22 @@
     {
       "width": 2048,
       "height": 2048,
-      "src": "./photos/Linux/Linux-lpic-1-certification.png"
+      "src": "./photos/Linux/Linux-lpic-1-badge.png"
     },
     {
       "width": 2750,
       "height": 2125,
       "src": "./photos/Linux/Linux-LPIC-1.png"
+    },
+    {
+      "width": 680,
+      "height": 680,
+      "src": "./photos/Linux/Linux-lpic-2-badge.png"
+    },
+    {
+      "width": 2750,
+      "height": 2125,
+      "src": "./photos/Linux/Linux-LPIC-2.png"
     }
   ],
   "Microsoft": [

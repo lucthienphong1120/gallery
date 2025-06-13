@@ -678,6 +678,11 @@
       "src": "./photos/Linux/Linux-LPIC-1.png"
     },
     {
+      "width": 444,
+      "height": 344,
+      "src": "./photos/Linux/Linux-LPIC-100-logo.png"
+    },
+    {
       "width": 680,
       "height": 680,
       "src": "./photos/Linux/Linux-lpic-2-badge.png"
@@ -686,6 +691,16 @@
       "width": 2750,
       "height": 2125,
       "src": "./photos/Linux/Linux-LPIC-2.png"
+    },
+    {
+      "width": 444,
+      "height": 344,
+      "src": "./photos/Linux/Linux-LPIC-200-logo.png"
+    },
+    {
+      "width": 444,
+      "height": 344,
+      "src": "./photos/Linux/Linux-LPIC-306-logo.png"
     }
   ],
   "Microsoft": [

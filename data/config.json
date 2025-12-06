@@ -600,6 +600,18 @@
       "src": "./photos/Google Digital Garange/GoogleDigitalGarage-fudamentals-of-digital-marketing.png"
     }
   ],
+  "Google-Education": [
+    {
+      "width": 400,
+      "height": 400,
+      "src": "./photos/Google-Education/Gemini-Certified-Educator-badge.png"
+    },
+    {
+      "width": 400,
+      "height": 400,
+      "src": "./photos/Google-Education/Gemini-Certified-University-Student-badge.png"
+    }
+  ],
   "Great Learning": [
     {
       "width": 3509,
@@ -1293,7 +1305,7 @@
     {
       "width": 1600,
       "height": 1190,
-      "src": "./photos/Udemy/udemy-C#-Programla-a-Dili-Temel-Orta-\u0130leri-Seviye.jpg"
+      "src": "./photos/Udemy/Udemy-C#-Programla-a-Dili-Temel-Orta-\u0130leri-Seviye.jpg"
     },
     {
       "width": 1600,

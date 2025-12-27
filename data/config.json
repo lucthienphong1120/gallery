@@ -1019,6 +1019,18 @@
       "src": "./photos/Quizizz/Quizizz-Certified-Game-Changer-1.png"
     }
   ],
+  "Redteam Leaders": [
+    {
+      "width": 600,
+      "height": 338,
+      "src": "./photos/Redteam Leaders/redteamleader-AV-EDR-Evasion-Practical-Techniques-badge.png"
+    },
+    {
+      "width": 1100,
+      "height": 850,
+      "src": "./photos/Redteam Leaders/redteamleader-introduction-to-bug-bounty.jpg"
+    }
+  ],
   "SamSung": [
     {
       "width": 1654,

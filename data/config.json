@@ -1045,6 +1045,11 @@
     {
       "width": 1100,
       "height": 850,
+      "src": "./photos/Redteam Leaders/redteamleader-Fundamentals-of-Game-Hacking-Development.jpg"
+    },
+    {
+      "width": 1100,
+      "height": 850,
       "src": "./photos/Redteam Leaders/redteamleader-introduction-to-bug-bounty.jpg"
     },
     {
@@ -1053,9 +1058,19 @@
       "src": "./photos/Redteam Leaders/redteamleader-Introduction-to-Offensive-Security-with-Artificial-Intelligence.jpg"
     },
     {
+      "width": 600,
+      "height": 338,
+      "src": "./photos/Redteam Leaders/redteamleader-Introduction-to-Python-for-Defensive-Security-badge.png"
+    },
+    {
       "width": 1100,
       "height": 850,
       "src": "./photos/Redteam Leaders/redteamleader-Malware-Analysis-Introduction-v1.jpg"
+    },
+    {
+      "width": 600,
+      "height": 338,
+      "src": "./photos/Redteam Leaders/redteamleader-Offensive-Development-Introduction-for-Windows-v1-badge.png"
     },
     {
       "width": 1100,

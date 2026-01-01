@@ -1033,6 +1033,11 @@
   ],
   "Redteam Leaders": [
     {
+      "width": 1100,
+      "height": 850,
+      "src": "./photos/Redteam Leaders/redteamleader-Advanced-C2-Development.jpg"
+    },
+    {
       "width": 600,
       "height": 338,
       "src": "./photos/Redteam Leaders/redteamleader-AV-EDR-Evasion-Practical-Techniques-badge.png"
@@ -1090,6 +1095,11 @@
     {
       "width": 1100,
       "height": 850,
+      "src": "./photos/Redteam Leaders/redteamleader-Physical-PenTest-Fundamentals.jpg"
+    },
+    {
+      "width": 1100,
+      "height": 850,
       "src": "./photos/Redteam Leaders/redteamleader-Purple-Team-Active-Directory-and-AzureAD-v1.jpg"
     },
     {
@@ -1101,6 +1111,11 @@
       "width": 1100,
       "height": 850,
       "src": "./photos/Redteam Leaders/redteamleader-Web-Browser-for-Hacking.jpg"
+    },
+    {
+      "width": 393,
+      "height": 222,
+      "src": "./photos/Redteam Leaders/redteamleader-Windows-API-for-Red-Team-Introduction-badge.png"
     }
   ],
   "SamSung": [

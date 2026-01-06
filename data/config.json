@@ -600,16 +600,36 @@
       "src": "./photos/Google Digital Garange/GoogleDigitalGarage-fudamentals-of-digital-marketing.png"
     }
   ],
-  "Google-Education": [
+  "Google Education": [
     {
       "width": 400,
       "height": 400,
-      "src": "./photos/Google-Education/Gemini-Certified-Educator-badge.png"
+      "src": "./photos/Google Education/Gemini-Certified-Educator-badge.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Google Education/Gemini-Certified-Educator.png"
     },
     {
       "width": 400,
       "height": 400,
-      "src": "./photos/Google-Education/Gemini-Certified-University-Student-badge.png"
+      "src": "./photos/Google Education/Gemini-Certified-Faculty-badge.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Google Education/Gemini-Certified-Faculty.png"
+    },
+    {
+      "width": 400,
+      "height": 400,
+      "src": "./photos/Google Education/Gemini-Certified-University-Student-badge.png"
+    },
+    {
+      "width": 2200,
+      "height": 1700,
+      "src": "./photos/Google Education/Gemini-Certified-University-Student.png"
     }
   ],
   "Great Learning": [

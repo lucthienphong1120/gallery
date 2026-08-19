@@ -774,6 +774,13 @@
       "src": "./photos/Linux/Linux-LPIC-306.png"
     }
   ],
+  "Masan": [
+    {
+      "width": 896,
+      "height": 590,
+      "src": "./photos/Masan/masan-racing-2026.jpg"
+    }
+  ],
   "Microsoft": [
     {
       "width": 340,
@@ -1376,6 +1383,13 @@
       "width": 3300,
       "height": 2550,
       "src": "./photos/Splunk Partnerverse/SplunkCoreCertifiedPowerUser_Badge.png"
+    }
+  ],
+  "The Conqueror": [
+    {
+      "width": 3507,
+      "height": 2481,
+      "src": "./photos/The Conqueror/conqueror-vietnam-coast.png"
     }
   ],
   "TryHackMe": [
